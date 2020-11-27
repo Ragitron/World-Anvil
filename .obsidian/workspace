@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "Language/Terminology.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Language/Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Language/Terminology.md",
+    "Language/Military Slang.md",
     "README.md",
     "Maps/Local Stars.md",
     "Maps/Galactic Features and Local Quadrants.md",
@@ -93,8 +95,6 @@
     "Empire in Snapshots/Battle of ....md",
     "Inspiration/Gerard Trignac.md",
     "Inspiration/Untitled.md",
-    "Philosophy/Untitled.md",
-    "Organisation/Untitled.md",
-    "Species/Untitled.md"
+    "Philosophy/Untitled.md"
   ]
 }

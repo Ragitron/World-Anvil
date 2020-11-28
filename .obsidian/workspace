@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maps/Local Stars.md",
-            "mode": "preview"
+            "file": "Technology/Gaiopolis.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Local Stars.md",
+                "file": "Technology/Gaiopolis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Technology/Untitled.md",
+    "Empire in Snapshots/Emperial Brush Fires.md",
+    "Technology/Early Artificial Intelligences.md",
+    "Empire in Snapshots/Battle of ....md",
     "Maps/Local Stars.md",
     "Maps/Galactic Features and Local Quadrants.md",
-    "Empire in Snapshots/Emperial Brush Fires.md",
-    "Empire in Snapshots/Battle of ....md",
     "Inspiration/Gerard Trignac.md",
     "Inspiration/Untitled.md",
     "Philosophy/Untitled.md",
-    "Organisation/Untitled.md",
-    "Species/Untitled.md",
-    "Empire in Snapshots/Untitled.md"
+    "Organisation/Untitled.md"
   ]
 }

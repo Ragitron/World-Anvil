@@ -1,38 +1,30 @@
 {
   "main": {
-    "id": "0d7cb4f102c7b9d1",
+    "id": "ab237742c0edf12a",
     "type": "split",
     "children": [
       {
-        "id": "09293317b603aec2",
+        "id": "314e0627918a0608",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "Technology/Gaiopolis.md",
-            "mode": "source"
-=======
-            "file": "Language/Terminology.md",
-            "mode": "preview"
->>>>>>> main
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9f2fb1ece4b42ecb",
+    "id": "aa48af80f0f1cfca",
     "type": "split",
     "children": [
       {
-        "id": "5622daf517f24c0b",
+        "id": "ca5a9727e6e1b9b4",
         "type": "tabs",
         "children": [
           {
-            "id": "eedc5ac187a89c68",
+            "id": "64f5f565e4e83193",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,7 +32,7 @@
             }
           },
           {
-            "id": "076d18073e53b01a",
+            "id": "509dd253a16dec9a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,24 +53,19 @@
     "width": 300
   },
   "right": {
-    "id": "75285e4915ecf9a0",
+    "id": "e04c4b09c9bf3504",
     "type": "split",
     "children": [
       {
-        "id": "b8e464498a36bdc0",
+        "id": "46173c6a031ad064",
         "type": "tabs",
         "children": [
           {
-            "id": "b3a3b78ab9637b29",
+            "id": "e73935f9cf7b86ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Technology/Gaiopolis.md",
-=======
-                "file": "Language/Terminology.md",
->>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,27 +82,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Technology/Untitled.md",
-=======
-    "Language/Terminology.md",
-    "Language/Military Slang.md",
-    "README.md",
-    "Maps/Local Stars.md",
-    "Maps/Galactic Features and Local Quadrants.md",
->>>>>>> main
-    "Empire in Snapshots/Emperial Brush Fires.md",
-    "Technology/Early Artificial Intelligences.md",
-    "Empire in Snapshots/Battle of ....md",
-    "Maps/Local Stars.md",
-    "Maps/Galactic Features and Local Quadrants.md",
-    "Inspiration/Gerard Trignac.md",
-    "Inspiration/Untitled.md",
-<<<<<<< HEAD
-    "Philosophy/Untitled.md",
-    "Organisation/Untitled.md"
-=======
+    "Human Garden Hypothesis.md",
     "Philosophy/Untitled.md"
->>>>>>> main
   ]
 }

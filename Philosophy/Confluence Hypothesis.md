@@ -1,0 +1,7 @@
+> Society ebs and flows in its progres, spurred forward or regressed by technology, calamity, or memetic theory. Often shifts in society focus on individuals of greatness that have been able to take advantage or are uniquely suited to capitalising on the trends of the time. 
+
+Proposed in opposition to the [[Great Person Hypothesis]] and [[Human Garden Hypothesis]], Confluence Theory quickly spread through academic and political thought. Eventually becoming the core principles underlying psychohistorical analysis the [[Second Empire]]. 
+
+The hypothesis suggests that the famous and infamous of history that appear to singularly direct the course of history are merely tools or focal points of the shifts in society of their time. Transported to other times, and other society pivots these people would fade into the mass of humanity with the rest of their peer; whatever gifts and ambitions they may have possessed being useless in the wrong context. 
+
+An alternative description of the hypothesis is that society makes people that appear to alter history. Suggesting that although such individuals were uniquely suited to alter history, the march of society dictated that *some* individual would alter history with no prescription for which one. Whether society merely expends great individuals on its own march, or beseeches great individuals to direct it is controversial.

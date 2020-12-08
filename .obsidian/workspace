@@ -1,30 +1,33 @@
 {
   "main": {
-    "id": "ab237742c0edf12a",
+    "id": "67744c8036f4b934",
     "type": "split",
     "children": [
       {
-        "id": "314e0627918a0608",
+        "id": "8e8e0957155c447e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Systems/Tobruk.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "aa48af80f0f1cfca",
+    "id": "fd03e922766b41b4",
     "type": "split",
     "children": [
       {
-        "id": "ca5a9727e6e1b9b4",
+        "id": "7962ad98bcf4587c",
         "type": "tabs",
         "children": [
           {
-            "id": "64f5f565e4e83193",
+            "id": "3ecf8e56edac6a5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -32,7 +35,7 @@
             }
           },
           {
-            "id": "509dd253a16dec9a",
+            "id": "1d00128e8b5b39e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,19 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "e04c4b09c9bf3504",
+    "id": "b5eb2a45039ce8b6",
     "type": "split",
     "children": [
       {
-        "id": "46173c6a031ad064",
+        "id": "ed03c8de10aa142a",
         "type": "tabs",
         "children": [
           {
-            "id": "e73935f9cf7b86ff",
+            "id": "6d9bb7fcf6f48ae9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Systems/Tobruk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +86,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Human Garden Hypothesis.md",
-    "Philosophy/Untitled.md"
+    "Systems/Tobruk.md"
   ]
 }

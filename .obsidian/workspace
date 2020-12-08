@@ -1,50 +1,33 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "ab237742c0edf12a",
+    "id": "67744c8036f4b934",
     "type": "split",
     "children": [
       {
-        "id": "314e0627918a0608",
-=======
-    "id": "68dc11e8ebaedee6",
-    "type": "split",
-    "children": [
-      {
-        "id": "374e010dc3bf9400",
->>>>>>> Stashed changes
+        "id": "8e8e0957155c447e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Systems/Tobruk.md",
+            "mode": "preview"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "aa48af80f0f1cfca",
+    "id": "fd03e922766b41b4",
     "type": "split",
     "children": [
       {
-        "id": "ca5a9727e6e1b9b4",
+        "id": "7962ad98bcf4587c",
         "type": "tabs",
         "children": [
           {
-            "id": "64f5f565e4e83193",
-=======
-    "id": "806db219df24ccfa",
-    "type": "split",
-    "children": [
-      {
-        "id": "ed441748c9c6a4a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19593e6ff89880d1",
->>>>>>> Stashed changes
+            "id": "3ecf8e56edac6a5f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,11 +35,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "509dd253a16dec9a",
-=======
-            "id": "d818bcb9b1874865",
->>>>>>> Stashed changes
+            "id": "1d00128e8b5b39e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,31 +56,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "e04c4b09c9bf3504",
+    "id": "b5eb2a45039ce8b6",
     "type": "split",
     "children": [
       {
-        "id": "46173c6a031ad064",
+        "id": "ed03c8de10aa142a",
         "type": "tabs",
         "children": [
           {
-            "id": "e73935f9cf7b86ff",
-=======
-    "id": "c52832441f93648f",
-    "type": "split",
-    "children": [
-      {
-        "id": "ca7681b0eb1b0725",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "084985d667858faf",
->>>>>>> Stashed changes
+            "id": "6d9bb7fcf6f48ae9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Systems/Tobruk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,12 +86,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Human Garden Hypothesis.md",
-    "Philosophy/Untitled.md"
-=======
-    "Technology/Gaiopolis.md",
-    "Mecca.md"
->>>>>>> Stashed changes
+    "Systems/Tobruk.md"
   ]
 }

@@ -26,6 +26,6 @@ On the planet *Alamein* agriculture took the form of bioreactors and algal prote
 
 ### Terraforming  
 
-*Alamein* would remain unterraformed until its recycling in the [[Third Empire]]. Originally devoid of life over several millenia the bioreactor effluent and sewage reservoirs would result in a limited microbial biosphere. Debate continues as to whether this biosphere formed *de novo* from terran organic material or was in fact contaminant bacteria from the colony.
+*Alamein* would remain un-terraformed until its recycling in the [[Third Empire]]. Originally devoid of life over several millenia the bioreactor effluent and sewage reservoirs would result in a limited microbial biosphere. Debate continues as to whether this biosphere formed *de novo* from terran organic material or was in fact contaminant bacteria from the colony. Once recycled into the [[Shell World]] of *Holy Alamein* the planet became a thriving population centre but maintained a chilly atmosphere in reverence to its origins.
 
-Once recycled into the [[Shell World]] of *Holy Alamein* the planet became a thriving population centre but maintained a chilly atmosphere in reverance to its origins.
+The hostile atmosphere of *Tobruk* was eventually tamed after several millenia of geo-engineering. The first effort to terraform *Tobruk* began in the second century of colonisation with the construction of the first atmospheric 

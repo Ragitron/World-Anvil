@@ -16,6 +16,10 @@ The two colonies maintained the original government aboard the *Novangelia* thro
 
 ## Development
 
+### Tobruk
+
+
+
 ### Agriculture
 
 The first century of *Tobruk's* development saw rapid expansion of its infrastructure utilising the still well maintained manufacturing facilities of the *Novangelia*. Printed and modular architecture became the foundations for both the colonies of *Tobruk Proper* and *Alamein*. *Novangelia's* archicultural decks were expanded to support the populations of both planets, this stretched the industry of the aging [[Generation Ship]] to the breaking point. The colonies would have to quickly develop local agriculture in order expand.

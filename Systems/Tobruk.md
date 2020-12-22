@@ -2,9 +2,18 @@
 
 > **Alpha Serpentis** binary star system
 
+## Planets 
+
+### Tobruk  
+
+The capital of the system is ont he planet of the same name. The mycotic world within the the inner sphere of the binary stars *Serpentis* was first discovered from spectral data during the [[Pre-Expansion Era]] and surveyed at the end of the [[First Expansion]]. However no colonisation efforst would be attempted until the [[Third Expansion]] when the *Novanegelia* was crowd-funded by despondent settlers from across the vestiges of the [[First Empire]]. The majority of the population hailed from [[Paris]] and [[Bangladesh]] bringing with them the still thriving [[Hindu Philosophy]] and the novel of ideas of [[Diasporad Thought]].  
+
+Although temporality is difficult to establish across the lifetime of the human empires, most evidence suggests that the *Novangelia* arrived in system around the time of the [[Battle of Mars]]. 
+
+
 ## Colonisation
 
-*Tobruk* was founded in the [[Third Expansion]] during the last centuries of the [[First Empire]] bankrolled by a forgotten non-profit organisation, the motivations of which remain unclear. For the settler's of the [[Generation Ship]] *Novangelia* the system was an escape from the collapsing economies of the [[First Empire]]'s core world's. The *Novangelia* arrived originally in a parking orbit around the satellite of the planet that would eventually become the systems namesake. The satellite was similarly disproportionately sized to *[[Earth]]'s* own satellite and it was assumed at the time this provided the planet with a degree of environmental stability.
+
 
 The satellite's weak gravity allowed the colonists to begin construction of a way station, although construction efforts languished in the early centuries of the colony becoming little more than an automated refuelling depot for mining operations in system. This suggested that there was disagreement amongst the polity of the *Novangelia* in regards to their continuing relationship with the [[First Empire]]. It would appear that some still maintained some loyalty to the Empire in the early centuries, this loyalty would not survive to the next generation of colonists.
 

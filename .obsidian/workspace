@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Systems/Tobruk.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Systems/Tobruk.md"
+    "Systems/Tobruk.md",
+    "Philosophy/Untitled.md",
+    "Philosophy/Diasporad Though.md"
   ]
 }

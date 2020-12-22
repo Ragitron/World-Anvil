@@ -1,0 +1,3 @@
+> A mind is a terrible thing to lose. In the age of stone and dirt humanity carried its mind within itself for fleeting infinitesmal fractions of time. In the following millenia of paper and stone humans could impart fractions of their mind into the page. The mind is no longer tied to neurons, it can be replicated infinitely in text.
+
+The notion of emergent consciousness from the information content of the brain carries the implication that if this information is replicated elsewhere the quanta of consciousness. 

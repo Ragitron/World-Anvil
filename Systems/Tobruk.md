@@ -2,13 +2,15 @@
 
 > **Alpha Serpentis** binary star system
 
-## Planets 
+## Planets
 
 ### Tobruk  
 
 The capital of the system is ont he planet of the same name. The mycotic world within the the inner sphere of the binary stars *Serpentis* was first discovered from spectral data during the [[Pre-Expansion Era]] and surveyed at the end of the [[First Expansion]]. However no colonisation efforst would be attempted until the [[Third Expansion]] when the *Novanegelia* was crowd-funded by despondent settlers from across the vestiges of the [[First Empire]]. The majority of the population hailed from [[Paris]] and [[Bangladesh]] bringing with them the still thriving [[Hindu Philosophy]] and the novel of ideas of [[Diasporad Thought]].  
 
-Although temporality is difficult to establish across the lifetime of the human empires, most evidence suggests that the *Novangelia* arrived in system around the time of the [[Battle of Mars]]. 
+Although temporality is difficult to establish across the lifetime of the human empires, most evidence suggests that the *Novangelia* arrived in system around the time of the [[Battle of Mars]]. The settlers began to conduct deep atmosphere surveys of their new homeworld from the orbit of *Acroma*, one of two irregular satellites. Deviating from standard settlement protocols the *Novangelia* began to dedicate huge resources toward the establishment of a permanent settled on *Acroma*, although millenia of hyper-exploitative mining practices and the loss of key data banks has left little remains of the *Acroma* itself, or the reasoning behind this early settlement. The *Acroma* Habitat regardless became a staging settlement for further development of the system and the planet. *Acroma* - eventually being renamed to *Ikrova* - became the seat of colonial governance for the system for the next several millenia.
+
+The native environment of *Tobruk* is lost to history, although it is clear that a local simple ecosystem was hostile to human life. The most significant organism being a species of sporulating organism most comparable to a Terran fungus. This species caused several deaths of the early settles during containment breach and the early centuries. Eventually this species was exterminated a massive infrastructure project during the fifth century of settlement. The iconic atmospheric processors of *Tobruk* were built across the continent of the planet, and spent the next four centuries showed a dramatic decrease in mycotic spores, although complete extermination was not achieved until the fifteenth century of colonisation. These mycotic spored remained unknown to the Empire until the reconstruction of the [[Third Empire]] when excavation of the *Tobruk* lithosphere resulted in a localised release of spore and consumption of numerous
 
 
 ## Colonisation

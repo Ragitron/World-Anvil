@@ -6,12 +6,16 @@
       {
         "id": "8e8e0957155c447e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Technology/Ablative Re-Entry.md",
             "mode": "source"
+=======
+            "file": "Inspiration/What is your Name.md",
+            "mode": "preview"
+>>>>>>> Stashed changes
           }
         }
       }
@@ -69,10 +73,16 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Technology/Ablative Re-Entry.md",
+=======
+                "file": "Inspiration/What is your Name.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,7 +95,9 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "8e8e0957155c447e",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Technology/Untitled.md",
     "Species/Transcendant.md",
     "Technology/Network/Untitled.md",
@@ -93,5 +105,17 @@
     "Systems/Tobruk.md",
     "Philosophy/Untitled.md",
     "Philosophy/Diasporad Though.md"
+=======
+    "Inspiration/Untitled.md",
+    "Technology/Early Artificial Intelligences.md",
+    "Systems/Tobruk.md",
+    "Species/Transcendant.md",
+    "Species/The Ancient Ones.md",
+    "Physics/n-Space.md",
+    "Philosophy/Human Garden Hypothesis.md",
+    "Philosophy/Mind-Body Duality.md",
+    "Philosophy/Malignant Individualism.md",
+    "Philosophy/How we describe a space.md"
+>>>>>>> Stashed changes
   ]
 }

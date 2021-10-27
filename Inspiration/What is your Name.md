@@ -14,4 +14,4 @@ This passage is held in the book *"How the World Thinks"* by Julian Baggani as a
 It is interesting to imagine a culture in which the expectation is that when you introduce yourself to a stranger you should already know their name and they would know yours. Hierarchy would be visible in how higher status individuals would have an entourage who would make introductions.  
 
 > 'Messr Samson, a pleasure to meet you,' I said approaching to offer my hand.  
-> 'Mr Truman,' a thin aide exclaims to me, 'Messr Samson is exctatic to make your acquaintance,'   
+> 'Mr Truman,' a thin aide exclaims to me, 'Messr Samson is ecstatic to make your acquaintance,'   

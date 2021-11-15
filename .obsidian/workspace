@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Confluence Hypothesis.md",
-            "mode": "preview"
+            "file": "Species/Originals.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Confluence Hypothesis.md",
+                "file": "Species/Originals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "2ab1f43e8bb63181",
   "lastOpenFiles": [
+    "Species/Originals.md",
     "Philosophy/Confluence Hypothesis.md",
     "Physics/n-Space.md",
     "Species/Transcendant.md",
@@ -96,7 +97,6 @@
     "Environmental Complexity.md",
     "Colonial Protecterate.md",
     "Empire in Snapshots/Emperial Brush Fires.md",
-    "Empire in Snapshots/Battle of ....md",
-    "Inspiration/Other's Works/Ozymandias.md"
+    "Empire in Snapshots/Battle of ....md"
   ]
 }

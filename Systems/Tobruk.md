@@ -27,9 +27,6 @@ The two colonies maintained the original government aboard the *Novangelia* thro
 
 ## Development
 
-### Tobruk
-
-
 
 ### Agriculture
 
@@ -43,8 +40,8 @@ On the planet *Alamein* agriculture took the form of bioreactors and algal prote
 
 *Alamein* would remain un-terraformed until its recycling in the [[Third Empire]]. Originally devoid of life over several millenia the bioreactor effluent and sewage reservoirs would result in a limited microbial biosphere. Debate continues as to whether this biosphere formed *de novo* from terran organic material or was in fact contaminant bacteria from the colony. Once recycled into the [[Shell World]] of *Holy Alamein* the planet became a thriving population centre but maintained a chilly atmosphere in reverence to its origins.
 
-The hostile atmosphere of *Tobruk* was eventually tamed after several millenia of geo-engineering. The first effort to terraform *Tobruk* began in the second century of colonisation with the construction of the first atmospheric cyclers. These gargantuan machines vacuumed the local atmosphere of the colony wiping out whole species of mycotic spores in the first few years of their activation. After the the collapse of the government aboard the *Novangelia*, the local consulate of the colony in the *Valtus Canyon* (what would eventually become **Valderra**) initiated a infrastructural doctrine that would be upheld through to eventual reunification with *Alamein*.
+The hostile atmosphere of *Tobruk* was eventually tamed after several millenia of geo-engineering. The first effort to terraform *Tobruk* began in the second century of colonisation with the construction of the first atmospheric cyclers. These gargantuan machines vacuumed the local atmosphere of the colony wiping out whole species of mycotic spores in the first few years of their activation. After the the collapse of the government aboard the *Novangelia*, the local consulate of the colony in the *Valtus Canyon* (what would eventually become **Valderra**) initiated an infrastructural doctrine that would be upheld through to eventual reunification with *Alamein*.
 
-The **Hermann Doctrine** (named after a famous engineer who had passed away aboard the *Novangelia* in transit to *Tobruk*) in specifics is lost to time, however it was clear that it outlined several goals for the development of the colony. The primary goal of these projects was to make *Tobruk* habitable for human life. The local ecosystem of mycotic spores was deemed too hostile to be in any way compatible or exploitable, and far too primitive to warrant any consideration of ecologic preservation (an result of the old *[[Environmental Complexity]]* that governed much of the terraforming efforts of the [[Second Empire]]).
+The **Hermann Doctrine** (named after a famous engineer who had passed away aboard the *Novangelia* in transit to *Tobruk*) in specifics is lost to time, however it was clear that it outlined several goals for the development of the colony. The primary goal of these projects was to make *Tobruk* habitable for human life. The local ecosystem of mycotic spores was deemed too hostile to be in any way compatible or exploitable, and far too primitive to warrant any consideration of ecologic preservation (a result of the old *[[Environmental Complexity]]* that governed much of the terraforming efforts of the [[Second Empire]]).
 
 By the time of the second millenium of colonisation, the local mycotic spores were forced into minute ecologic niches, going with them the hydrocarbon content of the atmosphere - an outcome that many had anticipated.

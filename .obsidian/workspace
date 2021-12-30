@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Human Garden Hypothesis.md",
+            "file": "Concepts/Trantor Doctrine.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Human Garden Hypothesis.md",
+                "file": "Concepts/Trantor Doctrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2ab1f43e8bb63181",
   "lastOpenFiles": [
-    "Philosophy/Human Garden Hypothesis.md",
-    "Philosophy/Confluence Hypothesis.md",
-    "Philosophy/How we describe a space.md",
-    "Empire in Snapshots/Emperial Brush Fires.md",
+    "Concepts/Trantor Doctrine.md",
+    "Organisation/Colonial Protecterate.md",
+    "Systems/Teegarden.md",
+    "Maps/Local Stars.md",
+    "Empire in Snapshots/Imperial Brush Fires.md",
+    "Systems/Core  Worlds.md",
     "Empire in Snapshots/Battle of ....md",
-    "Inspiration/Gerard Trignac.md",
-    "Inspiration/What is your Name.md",
-    "Inspiration/Other's Works/Ozymandias.md",
-    "Language/Military Slang.md",
-    "Language/Terminology.md"
+    "Philosophy/Emergent Immortality.md",
+    "Organisation/Military of the Empires.md",
+    "Empire in Snapshots/The Rings.md"
   ]
 }

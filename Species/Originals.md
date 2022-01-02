@@ -25,7 +25,7 @@ Despite the seperation skirmishes would occur around margins of territory where 
 
 The first colonists of *Kurkut* were heavy reliant on augmentation to survive the hostile environment. The atmosphere was largely inhospitable, and the native life inedible. Augmentation was necessary to survive between long periods of isolation. After only a few generations food supplies from the empire could only be used for by the very crews that brought them. Augmentation had allowed the colonists to subsist on native flora.  
 
-Terraforming efforts began only centuries before the fall the [[First Emprie]] and would appear to have proceeded largely by automation following. The Originals continued to survive as their world gradually changed.   
+Terraforming efforts began only centuries before the fall the [[First Empire]] and would appear to have proceeded largely by automation following. The Originals continued to survive as their world gradually changed.   
 
 No complete archaelogical survey has been conduced of the achepeligos, however peacable contact has allowed some understanding the Originals modern history.   
 

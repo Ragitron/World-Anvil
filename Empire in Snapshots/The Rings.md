@@ -1,4 +1,4 @@
-The [[Fourth Empire]]'s historiography had been radically warped by anthrocentrism. In the grand timeline the preceding empires of humanity were a single continuity. 
+The [[Imperium]]'s historiography had been radically warped by anthrocentrism. In the grand timeline the preceding empires of humanity were a single continuity. 
 
 The maps of the the ancient empires were constructed into rings of advancement through the galactic arms.  
 

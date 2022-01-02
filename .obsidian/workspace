@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Trantor Doctrine.md",
+            "file": "Species/Originals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Trantor Doctrine.md",
+                "file": "Species/Originals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2ab1f43e8bb63181",
   "lastOpenFiles": [
+    "Species/Originals.md",
+    "Empire in Snapshots/The Rings.md",
+    "Places of Interest/University of Luyten.md",
+    "Systems/Luyten.md",
+    "Empire in Snapshots/The Expansions/Second Expansion.md",
+    "Empire in Snapshots/The Expansions/Third Expansion.md",
+    "Maps/Local Stars.md",
     "Concepts/Trantor Doctrine.md",
     "Organisation/Colonial Protecterate.md",
-    "Systems/Teegarden.md",
-    "Maps/Local Stars.md",
-    "Empire in Snapshots/Imperial Brush Fires.md",
-    "Systems/Core  Worlds.md",
-    "Empire in Snapshots/Battle of ....md",
-    "Philosophy/Emergent Immortality.md",
-    "Organisation/Military of the Empires.md",
-    "Empire in Snapshots/The Rings.md"
+    "Systems/Teegarden.md"
   ]
 }

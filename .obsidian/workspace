@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
+            "file": "Empire in Snapshots/The Rings.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
+                "file": "Empire in Snapshots/The Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2ab1f43e8bb63181",
   "lastOpenFiles": [
+    "Empire in Snapshots/The Rings.md",
     "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
+    "Systems/Luyten's Star.md",
     "Maps/Local Stars.md",
+    "Maps/Galactic Features and Local Quadrants.md",
+    "Systems/Core  Worlds.md",
+    "Systems/Teegarden.md",
     "Technology/Network/Anchor.md",
     "Species/Originals.md",
-    "Empire in Snapshots/The Rings.md",
-    "Places of Interest/University of Luyten.md",
-    "Systems/Luyten.md",
-    "Empire in Snapshots/The Expansions/Second Expansion.md",
-    "Empire in Snapshots/The Expansions/Third Expansion.md",
-    "Concepts/Trantor Doctrine.md"
+    "Places of Interest/University of Luyten.md"
   ]
 }

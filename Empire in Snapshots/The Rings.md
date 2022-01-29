@@ -22,6 +22,12 @@ At the centre of the Ring of Glory is [[Greater Terra]], its farthest reach the 
 
 ### Ring of Wealth
 
-While not actually encirclingh core *Ring of Glory*, the trade centres of the old empires were the logistic centres that brought the material wealth the milky way to [[Greater Terra]].  
+While not actually encircling core *Ring of Glory*, the trade centres of the old empires were the logistic centres that brought the material wealth of the [[Sagittarius Arm]] to [[Greater Terra]].  
 
-Of thhes [[Formalhut]], [[Vega]], and [[Arcturus]] the most well known.
+Of thhes [[Formalhut]], [[Vega]], and [[Arcturus]] the most well known. These systems generally have a dense orbital infrastructure that counter-intuitively makes intra-system navigation slowly, however concentrates warehouses and shipyard facilities for shipping industry.   
+
+***
+
+### Ring of Industry  
+
+The traditional capital of the Ring of Industry is [[Johannesburg]] located in the [[Kruger 60]] system. Economically entwined with the capital are the systems of [[Pollux]], [[Castor]], [[Capella]], and [[Aldebaran]]. 

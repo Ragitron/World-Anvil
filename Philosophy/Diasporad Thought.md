@@ -1,6 +1,5 @@
 > "What the mind of the human animal most desire is to discover for itself the essence of the universe; and in so doing understand its own future"
-
-- Tristan the Wanderer,  The Focusing Lens
+> - Tristan the Wanderer,  The Focusing Lens
 
 Diasporad thought refers to the rise of philosophical - and eventually politic - thought that extolled the virtues of exploring the physical universe as a means of exploring the metaphysical self. The ideas of Diasporad thought were first expressed in cy-net of the early [[First Empire]] and lack any direct credit.
 

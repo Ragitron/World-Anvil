@@ -45,3 +45,8 @@ The hostile atmosphere of *Tobruk* was eventually tamed after several millenia o
 The **Hermann Doctrine** (named after a famous engineer who had passed away aboard the *Novangelia* in transit to *Tobruk*) in specifics is lost to time, however it was clear that it outlined several goals for the development of the colony. The primary goal of these projects was to make *Tobruk* habitable for human life. The local ecosystem of mycotic spores was deemed too hostile to be in any way compatible or exploitable, and far too primitive to warrant any consideration of ecologic preservation (a result of the old *[[Environmental Complexity]]* that governed much of the terraforming efforts of the [[Second Empire]]).
 
 By the time of the second millenium of colonisation, the local mycotic spores were forced into minute ecologic niches, going with them the hydrocarbon content of the atmosphere - an outcome that many had anticipated.
+
+***
+
+## The [Fall of Tobruk](obsidian://World-Anvil/chroniclesOne/01-Chapter-One)
+

@@ -8,13 +8,13 @@ AI hypernetworking would eventually allow for a pervasive [[Network]] from a sin
 
 The computing power of the human brain had long been known to be capable of processing [[Network]] data into a pervasive web. Such human operators came to be known as *Anchors* providing local [[Network]] access to new colonies and settlements during the intervening years between the Empires. 
 
-During the expansion of the [[Second Empire]], fleets capitalised on *Anchors* to generate local networks creating [[Battlenet]]s for coordination. This unparalleled coordination allowed the smaller Imperial fleets to outmaneuver the vast [[Remnant]] fleets scattered across the homeworlds. Eventually the reliance on [[Battlenet]]s lead to the adoption of life support cradles.
+During the expansion of the [[Second Empire]], fleets capitalised on *Anchors* to generate local networks creating [[Battlenet|Battlenets]] for coordination. This unparalleled coordination allowed the smaller Imperial fleets to outmaneuver the vast [[Remnant]] fleets scattered across the homeworlds. Eventually the reliance on [[Battlenet|Battlenets]] lead to the adoption of life support cradles.
 
 Life support cradles were contraversially implemented aboard the [[Second Empire]]'s 117th Fleet, where anchors were drawn from naval recruits that had suffered brainstem injury during training. This second generation of *Anchors* became archetypal. They were a permanent fixture of the fleet, required for all [[Network]] operations.
 
 During the final expansion of the [[Second Empire]] - where it would be pitted against the rising Stellar Kingdoms of [[Nerok Maro]] - the same technology that was used for *Anchors* would be implement in Fleet command structures. The first *Ship Captains* that were wired permanently into their ships were the oldest and experienced, leveraging their experience and the nibble hardware of their ships to make rapid decisions and communicate them instantaneously.
 
-The war with the [[Nerok Maro]] bled the [[Second Empire]]'s fleed and its *Ship Captains*. Volunteers were pressed into service to replace what came to be known as the [[Integrated Admiralty]]. Almost all ships with the exception of escorts and gunboats would become integrated with a *Ship Captain*. Utilising the collective decision-making capacity of the admiralty these fleet eventually won their war, subjugating the [[Nerok Maro]]. 
+The war with the [[Rampant|Nerok Maro]] bled the [[Second Empire]]'s fleed and its *Ship Captains*. Volunteers were pressed into service to replace what came to be known as the [[Integrated Admiralty]]. Almost all ships with the exception of escorts and gunboats would become integrated with a *Ship Captain*. Utilising the collective decision-making capacity of the admiralty these fleet eventually won their war, subjugating the [[Nerok Maro]]. 
 
 Shortly after the [[Second Restoration]], *Anchors* came to be drawn from volunteers; while the selection of *Ship Captains* returned to a process favouring experience. 
 

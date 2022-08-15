@@ -9,20 +9,26 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Technology/Network/Anchor.md",
+            "mode": "preview",
+            "backlinks": true,
+
             "file": "Second Empire.md",
             "mode": "preview",
+
             "source": true
           }
         }
       },
       {
-        "id": "22ab09ff1a68f1a6",
+
+        "id": "8d332027b2d345b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Empire in Snapshots/The Rings.md",
-            "mode": "preview",
+            "file": "Cultures/Rememberance.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -81,13 +87,35 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Empire.md",
+                "file": "Cultures/Rememberance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0015a8678daf107e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cultures/Rememberance.md"
+              }
+            }
+          },
+          {
+            "id": "69a20be8ade5f7a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cultures/Rememberance.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -99,8 +127,18 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ab1f43e8bb63181",
+  "active": "8d332027b2d345b5",
   "lastOpenFiles": [
+    "Systems/Tobruk.md",
+    "Technology/Network/Anchor.md",
+    "Systems/Luyten's Star.md",
+    "Systems/Teegarden.md",
+    "Systems/Core  Worlds.md",
+    "Species/Transcendant Consciousness.md",
+    "Species/The Ancient Ones.md",
+    "Species/Rampant.md",
+    "Empire in Snapshots/The Rings.md",
+    "templates/basic.md"
     "Empire in Snapshots/The Rings.md",
     "Second Empire.md",
     "Empire in Snapshots/Imperial Brush Fires.md",

@@ -1,8 +1,12 @@
 ---
+<<<<<<< HEAD
 alias: Nerok Maro
 title:
 references: 
 tags:
+=======
+references: null
+>>>>>>> ef943fe97aa47094dce3fcb1e3c9f904c104e106
 ---
 
 # The Rampant 
@@ -11,4 +15,8 @@ Once known as the *Nerok Maro* - also known as the Invader Empire - the Rampant 
 
 ## First Contact 
 
-The [[Second Empire]] had already [[Second Empire#Collapse|been in decline]] for centuries when the Rampant emerged out from the [[Galactic Features and Local Quadrants|Perseus Arm]]. 
+The [[Second Empire]] had already [[Second Empire#Collapse|been in decline]] for centuries when the Rampant emerged out from the [[Galactic Features and Local Quadrants|Perseus Arm]]. The [[Second Empire]] had already [[Second Empire#Collapse|been in decline]] for centuries when the Rampant emerged out from the [[Galactic Features and Local Quadrants|Perseus Arm]]. 
+
+The first colony to make contact was [[Khe San]] - an independent colony falling under the [[Second Empire#Treaty Planets|Treaty of Commercial Independence]]. Rightly wary the denizens of [[Khe San]] initially attempted cordon off their core habitat swarms from the Invader probes. However the loss of an outlying mining skiff along with its seventy-odd families impelled the colony to attack the observation ships in orbit at the system terminus. 
+
+The final communication recorded from the colony being a battle report citing the loss of several dozen torch freighters retrofit with weapons, and the fatal mauling of a survey ship play-acting as a swarm carrier. The heavy losses buying the Colony the death of a single Invader Observer.

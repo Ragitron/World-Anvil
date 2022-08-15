@@ -1,4 +1,4 @@
-The [[Imperium]]'s historiography had been radically warped by anthrocentrism. In the grand timeline the preceding empires of humanity were a single continuity. 
+The [[Third Empire|Imperium's]] historiography had been radically warped by anthrocentrism. In the grand timeline the preceding empires of humanity were a single continuity. 
 
 The maps of the the ancient empires were constructed into rings of advancement through the galactic arms.  
 
@@ -14,7 +14,7 @@ The maps of the the ancient empires were constructed into rings of advancement t
 
 ### Ring of Glory 
 
-At the centre of the Ring of Glory is [[Greater Terra]], its farthest reach the worlds of [[Groombridge 1830]]. The historic world of [[Alpha Centauri]] holds ancient mausoleums and in addition to [[Luyten's Star]] is a centre of knowledge for the [[Imperium]] and the later [[Fourth Empire]].  
+At the centre of the Ring of Glory is [[Greater Terra]], its farthest reach the worlds of [[Groombridge 1830]]. The historic world of [[Alpha Centauri]] holds ancient mausoleums and in addition to [[Luyten's Star]] is a centre of knowledge for the [[Third Empire|Imperium]] and the later [[Fourth Empire]].  
 
 [[Sirius]], [[Barnard's Star]], and [[Procyon]] amassed huge populations during their formative generations and are the source of the vast human populations that move the society of the [[Fourth Empire]].  
 

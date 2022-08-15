@@ -1,12 +1,9 @@
 ---
-<<<<<<< HEAD
 alias: Nerok Maro
 title:
 references: 
 tags:
-=======
 references: null
->>>>>>> ef943fe97aa47094dce3fcb1e3c9f904c104e106
 ---
 
 # The Rampant 

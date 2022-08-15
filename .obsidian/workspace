@@ -12,11 +12,16 @@
             "file": "Technology/Network/Anchor.md",
             "mode": "preview",
             "backlinks": true,
+
+            "file": "Second Empire.md",
+            "mode": "preview",
+
             "source": true
           }
         }
       },
       {
+
         "id": "8d332027b2d345b5",
         "type": "leaf",
         "state": {
@@ -134,5 +139,15 @@
     "Species/Rampant.md",
     "Empire in Snapshots/The Rings.md",
     "templates/basic.md"
+    "Empire in Snapshots/The Rings.md",
+    "Second Empire.md",
+    "Empire in Snapshots/Imperial Brush Fires.md",
+    "Systems/Luyten's Star.md",
+    "Systems/Core  Worlds.md",
+    "Systems/Tobruk.md",
+    "Systems/Teegarden.md",
+    "Species/Rampant.md",
+    "Empire in Snapshots/The Expansions/Second Expansion.md",
+    "Maps/Local Stars.md"
   ]
 }

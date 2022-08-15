@@ -1,6 +1,8 @@
 ---
+alias: Nerok Maro
 title:
 references: 
+tags:
 ---
 
 # The Rampant 

@@ -6,7 +6,7 @@
 
 ## The Originals  
 
-The world of *Kurkut* had been colonised during the [[Fourth Diaspora]] - which could be argued to be the beginning of the [[Third Expansion]] or the end of the [[Second Expansion]]; but was largely characterised by a colonial march toward the the galactic edge. The loss of the planet during the fall of the [[First Empire]] marked its isolation for several hundred thousand years until it was reclaimed by the [[Third Empire]]. Unfortunately this reclamation occurred during the empire's decline and the planet was again lost after a millenium of imperial development.  
+The world of *[[Kurkut]]* had been colonised during the [[Fourth Diaspora]] - which could be argued to be the beginning of the [[Third Expansion]] or the end of the [[Second Expansion]]; but was largely characterised by a colonial march toward the the galactic edge. The loss of the planet during the fall of the [[First Empire]] marked its isolation for several hundred thousand years until it was reclaimed by the [[Third Empire]]. Unfortunately this reclamation occurred during the empire's decline and the planet was again lost after a millenium of imperial development.  
 
 The settlers of the [[Third Empire]] named the native peoples they encountered the Originals. The native peoples were spread largely through the archipeligos of the planet which were considered to be economically fruitless. The settlers confined themselve the larger continent which became the breadbasket for the rapidly expanding orbital habitats throughout the system. 
 
@@ -23,7 +23,7 @@ Despite the seperation skirmishes would occur around margins of territory where 
 
 ### Augmented Peoples  
 
-The first colonists of *[[Kurkut]]* were heavy reliant on augmentation to survive the hostile environment. The atmosphere was largely inhospitable, and the native life inedible. Augmentation was necessary to survive between long periods of isolation. After only a few generations food supplies from the empire could only be used for by the very crews that brought them. Augmentation had allowed the colonists to subsist on native flora.  
+The first colonists of *[[Kurkut]]* were heavilyy reliant on augmentation to survive the hostile environment. The atmosphere was largely inhospitable, and the native life inedible. Augmentation was necessary to survive between long periods of isolation. After only a few generations food supplies from the empire could only be used for by the very crews that brought them. Augmentation had allowed the colonists to subsist on native flora.  
 
 Terraforming efforts began only centuries before the fall the [[First Empire]] and would appear to have proceeded largely by automation following. The Originals continued to survive as their world gradually changed.   
 

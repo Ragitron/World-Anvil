@@ -1,34 +1,16 @@
 {
   "main": {
-    "id": "72a8b50c8178beca",
+    "id": "1e3cb15197b89829",
     "type": "split",
     "children": [
       {
-        "id": "2ab1f43e8bb63181",
+        "id": "e946e222db85c38f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technology/Network/Anchor.md",
+            "file": "Philosophy/Mind-Body Duality.md",
             "mode": "preview",
-            "backlinks": true,
-
-            "file": "Second Empire.md",
-            "mode": "preview",
-
-            "source": true
-          }
-        }
-      },
-      {
-
-        "id": "8d332027b2d345b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cultures/Rememberance.md",
-            "mode": "source",
             "source": true
           }
         }
@@ -37,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "77da2ed753e94da9",
+    "id": "b01ded7eb1f70d3a",
     "type": "split",
     "children": [
       {
-        "id": "820df4dbc873a097",
+        "id": "844c34c6c9946440",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2fb728f8e48b36",
+            "id": "2c1e6ec1515ca563",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +35,7 @@
             }
           },
           {
-            "id": "bbd870eae1a7ec3a",
+            "id": "69b5ae7844c68acd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,48 +56,26 @@
     "width": 300
   },
   "right": {
-    "id": "fc0f71e1dc3b10cb",
+    "id": "9165f1a47cfdc7c7",
     "type": "split",
     "children": [
       {
-        "id": "d613b97501586778",
+        "id": "215cf76bb66fd226",
         "type": "tabs",
         "children": [
           {
-            "id": "952644e32a6460b6",
+            "id": "fd6ad47ac76a03a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultures/Rememberance.md",
+                "file": "Philosophy/Mind-Body Duality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0015a8678daf107e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Cultures/Rememberance.md"
-              }
-            }
-          },
-          {
-            "id": "69a20be8ade5f7a4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Cultures/Rememberance.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -127,27 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d332027b2d345b5",
+  "active": "e946e222db85c38f",
   "lastOpenFiles": [
-    "Systems/Tobruk.md",
-    "Technology/Network/Anchor.md",
-    "Systems/Luyten's Star.md",
-    "Systems/Teegarden.md",
-    "Systems/Core  Worlds.md",
-    "Species/Transcendant Consciousness.md",
-    "Species/The Ancient Ones.md",
     "Species/Rampant.md",
-    "Empire in Snapshots/The Rings.md",
-    "templates/basic.md"
-    "Empire in Snapshots/The Rings.md",
-    "Second Empire.md",
-    "Empire in Snapshots/Imperial Brush Fires.md",
-    "Systems/Luyten's Star.md",
-    "Systems/Core  Worlds.md",
-    "Systems/Tobruk.md",
-    "Systems/Teegarden.md",
-    "Species/Rampant.md",
-    "Empire in Snapshots/The Expansions/Second Expansion.md",
-    "Maps/Local Stars.md"
+    "Species/Originals.md",
+    "Physics/n-Space.md",
+    "Philosophy/Mind-Body Duality.md",
+    "Philosophy/The-Believers.md",
+    "Philosophy/Human Garden Hypothesis.md",
+    "Philosophy/How we describe a space.md",
+    "Philosophy/Diasporad Thought.md",
+    "Philosophy/Emergent Immortality.md",
+    "Concepts/Trantor Doctrine.md"
   ]
 }

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e946e222db85c38f",
+        "id": "6a5f89a1906ed461",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Systems/Greater Terra.md",
-            "mode": "source",
+            "file": "Maps/Galactic Features and Local Quadrants.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Greater Terra.md",
+                "file": "Maps/Galactic Features and Local Quadrants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maps/Galactic Features and Local Quadrants.md"
+              }
             }
           }
         ]
@@ -106,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e946e222db85c38f",
+  "active": "6a5f89a1906ed461",
   "lastOpenFiles": [
+    "Maps/Local Stars.md",
+    "Maps/Galactic Features and Local Quadrants.md",
+    "README.md",
+    "Systems/Greater Terra.md",
     "Organisation/Second Empire.md",
     "Places of Interest/University of Luyten.md",
     "Philosophy/Mind-Body Duality.md",
     "Species/Rampant.md",
     "Species/Originals.md",
-    "Physics/n-Space.md",
-    "Philosophy/The-Believers.md",
-    "Philosophy/Human Garden Hypothesis.md",
-    "Philosophy/How we describe a space.md",
-    "Philosophy/Diasporad Thought.md"
+    "Physics/n-Space.md"
   ]
 }

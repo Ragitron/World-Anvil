@@ -1,3 +1,5 @@
+# Military of the Empires
+
 Traditionally the military organisation of the human empires have been divided into three branches.
 
 - [[Stellarii]] - otherwise known as the imperial navy or simply the navy is responsible for most military engagements of the empire and is essential to force projection from Greater Terra

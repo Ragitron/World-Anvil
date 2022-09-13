@@ -9,6 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Technology/Network/Anchor.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8d332027b2d345b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Systems/Tobruk.md",
+            "mode": "source",
             "file": "Maps/Galactic Features and Local Quadrants.md",
             "mode": "preview",
             "source": true
@@ -69,6 +84,8 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Systems/Greater Terra.md",
+                "file": "Systems/Tobruk.md",
                 "file": "Maps/Galactic Features and Local Quadrants.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -88,13 +105,24 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+            "id": "0015a8678daf107e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Systems/Tobruk.md"
               }
             }
           },
           {
-            "id": "8030a5b224df5ba5",
+            "id": "69a20be8ade5f7a4",
             "type": "leaf",
             "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Systems/Tobruk.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               "type": "outline",
               "state": {
                 "file": "Maps/Galactic Features and Local Quadrants.md"
@@ -119,6 +147,23 @@
     "Philosophy/Mind-Body Duality.md",
     "Species/Rampant.md",
     "Species/Originals.md",
+    "Physics/n-Space.md",
+    "Philosophy/The-Believers.md",
+    "Philosophy/Human Garden Hypothesis.md",
+    "Philosophy/How we describe a space.md",
+    "Philosophy/Diasporad Thought.md"
+  "active": "8d332027b2d345b5",
+  "lastOpenFiles": [
+    "Technology/Network/Anchor.md",
+    "Systems/Tobruk.md",
+    "Systems/Luyten's Star.md",
+    "Systems/Teegarden.md",
+    "Systems/Core  Worlds.md",
+    "Species/Transcendant Consciousness.md",
+    "Species/The Ancient Ones.md",
+    "Species/Rampant.md",
+    "Empire in Snapshots/The Rings.md",
+    "templates/basic.md"
     "Physics/n-Space.md"
   ]
 }

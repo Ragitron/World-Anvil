@@ -1,4 +1,4 @@
-## What is your name
+# What is your name?
 
 in the *Blue Cliff Records*, a 12th century collection of Chan (Chinese Zen) Buddhist koans, there is a passage  
 
@@ -10,6 +10,8 @@ in the *Blue Cliff Records*, a 12th century collection of Chan (Chinese Zen) Bud
 
 
 This passage is held in the book *"How the World Thinks"* by Julian Baggani as an example of the quasi-collectivism of eastern philosophy. Where the self is defined in terms of people around them. 
+
+***
 
 It is interesting to imagine a culture in which the expectation is that when you introduce yourself to a stranger you should already know their name and they would know yours. Hierarchy would be visible in how higher status individuals would have an entourage who would make introductions.  
 

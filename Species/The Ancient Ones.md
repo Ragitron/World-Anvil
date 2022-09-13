@@ -1,3 +1,10 @@
+---
+alias:
+tags:
+---
+
+# The Ancient Ones
+
 The Ancient Ones are a blatant ripoff of both the 40K necrons and everything by Lovecraft.
 
 The Ancient have existed before this universe and will exist after the next. They are a truly timeless consciousness confined to innumerable Leviathan ships that have fallen through the fabric of the cosmos into the void. Unable to navigate the dimensional non-space they remain dormant, turning their malevolent minds toward the problem of conquering the void.

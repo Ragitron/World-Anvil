@@ -1,5 +1,8 @@
 [
-  "obsidian-excalidraw-plugin",
+
   "dataview",
-  "obsidian-pandoc"
+  "folder-note-plugin",
+  "waypoint",
+  "obsidian-excalidraw-plugin"
+
 ]

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e946e222db85c38f",
+        "id": "6a5f89a1906ed461",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,6 +24,8 @@
           "state": {
             "file": "Systems/Tobruk.md",
             "mode": "source",
+            "file": "Maps/Galactic Features and Local Quadrants.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -84,6 +86,7 @@
               "state": {
                 "file": "Systems/Greater Terra.md",
                 "file": "Systems/Tobruk.md",
+                "file": "Maps/Galactic Features and Local Quadrants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +123,9 @@
                 "file": "Systems/Tobruk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              "type": "outline",
+              "state": {
+                "file": "Maps/Galactic Features and Local Quadrants.md"
               }
             }
           }
@@ -130,8 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e946e222db85c38f",
+  "active": "6a5f89a1906ed461",
   "lastOpenFiles": [
+    "Maps/Local Stars.md",
+    "Maps/Galactic Features and Local Quadrants.md",
+    "README.md",
+    "Systems/Greater Terra.md",
     "Organisation/Second Empire.md",
     "Places of Interest/University of Luyten.md",
     "Philosophy/Mind-Body Duality.md",
@@ -154,5 +164,6 @@
     "Species/Rampant.md",
     "Empire in Snapshots/The Rings.md",
     "templates/basic.md"
+    "Physics/n-Space.md"
   ]
 }

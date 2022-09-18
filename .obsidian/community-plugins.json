@@ -3,4 +3,6 @@
   "folder-note-plugin",
   "waypoint",
   "obsidian-excalidraw-plugin"
-]
+  "obsidian-pandoc",
+  "obsidian-leaflet-plugin"
+  ]

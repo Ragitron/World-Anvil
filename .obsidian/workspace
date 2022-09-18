@@ -1,28 +1,15 @@
 {
   "main": {
-    "id": "1e3cb15197b89829",
+    "id": "c96f55e9fafc9e2b",
     "type": "split",
     "children": [
       {
-        "id": "e946e222db85c38f",
+        "id": "0eb742cd9026a45f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technology/Network/Anchor.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "8d332027b2d345b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Systems/Tobruk.md",
+            "file": "Maps/Galactic Features and Local Quadrants.md",
             "mode": "source",
             "source": true
           }
@@ -32,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b01ded7eb1f70d3a",
+    "id": "6ae7d027ad8d7271",
     "type": "split",
     "children": [
       {
-        "id": "844c34c6c9946440",
+        "id": "1f6f6dc3fc569b22",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1e6ec1515ca563",
+            "id": "2f48b2dc224de563",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +35,7 @@
             }
           },
           {
-            "id": "69b5ae7844c68acd",
+            "id": "342e0b3d8fa497ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,21 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "9165f1a47cfdc7c7",
+    "id": "6770949c2a1015ae",
     "type": "split",
     "children": [
       {
-        "id": "215cf76bb66fd226",
+        "id": "c7a379d615509e24",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6ad47ac76a03a4",
+            "id": "707e5721e92c5425",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/Greater Terra.md",
-                "file": "Systems/Tobruk.md",
+                "file": "Maps/Galactic Features and Local Quadrants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,31 +81,24 @@
             }
           },
           {
-            "id": "548a603dcfc20b79",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-            "id": "0015a8678daf107e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Systems/Tobruk.md"
-              }
-            }
-          },
-          {
-            "id": "69a20be8ade5f7a4",
+            "id": "d8b89bb87f526f82",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/Tobruk.md",
+                "file": "Maps/Galactic Features and Local Quadrants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd115657032a1aa3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maps/Galactic Features and Local Quadrants.md"
               }
             }
           }
@@ -130,29 +109,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e946e222db85c38f",
-  "lastOpenFiles": [
-    "Organisation/Second Empire.md",
-    "Places of Interest/University of Luyten.md",
-    "Philosophy/Mind-Body Duality.md",
-    "Species/Rampant.md",
-    "Species/Originals.md",
-    "Physics/n-Space.md",
-    "Philosophy/The-Believers.md",
-    "Philosophy/Human Garden Hypothesis.md",
-    "Philosophy/How we describe a space.md",
-    "Philosophy/Diasporad Thought.md"
-  "active": "8d332027b2d345b5",
-  "lastOpenFiles": [
-    "Technology/Network/Anchor.md",
-    "Systems/Tobruk.md",
-    "Systems/Luyten's Star.md",
-    "Systems/Teegarden.md",
-    "Systems/Core  Worlds.md",
-    "Species/Transcendant Consciousness.md",
-    "Species/The Ancient Ones.md",
-    "Species/Rampant.md",
-    "Empire in Snapshots/The Rings.md",
-    "templates/basic.md"
-  ]
+  "active": "0eb742cd9026a45f",
+  "lastOpenFiles": []
 }

@@ -9,6 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Physics/n-Space.md",
             "file": "Systems/Greater Terra.md",
             "mode": "source",
             "source": true
@@ -69,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/n-Space.md",
                 "file": "Systems/Greater Terra.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/n-Space.md",
                 "file": "Systems/Greater Terra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -98,6 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Physics/n-Space.md"
                 "file": "Systems/Greater Terra.md"
               }
             }
@@ -111,6 +115,7 @@
   },
   "active": "adbc144efe668cd6",
   "lastOpenFiles": [
+    "Systems/Greater Terra.md",
     "Systems/Luyten's Star.md",
     "Systems/Teegarden.md",
     "Places of Interest/University of Luyten.md",

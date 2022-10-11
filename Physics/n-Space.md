@@ -4,6 +4,15 @@ The theory of *n*-Space was developed after the discovery of the [[Merkel Effect
 
 Although originally thought to be the dimensionless void between physical planes experimentation has shown that *n*-space both has spacial dimensions and time dimensions, yet appears to provide a pivot for between vast expanses of real-space.
 
+## The Upsilon Experiments
+
+The *Upsilon Experiments* are a series of observations that have been collated at the time of the [[Fourth Empire]] which have been used as partial explanations for the nature of *n*-space. Briefly these experiments have demonstrated that *n*-space:
+1. is not subject to the classical laws of Information Theory in a traditional manner
+	1. whilst allowing the passage of information through it, *n*-space will not permit information to leave that breaches the Information Paradox
+2. interacts with some subatomic particles, but that this is interaction is unpredictable
+3. does not bind the speed of light
+4. 
+
 ***
 
 With the commercial viability of n-space drives came the rise of the First Empire. No longer shackled to relativistic travel, the fleets of Greater Terra could out-maneuver any colonial challenger by weeks providing a decisive advantage. 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/n-Space.md",
+            "file": "Technology/Early Artificial Intelligences.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/n-Space.md",
+                "file": "Technology/Early Artificial Intelligences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/n-Space.md",
+                "file": "Technology/Early Artificial Intelligences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/n-Space.md"
+                "file": "Technology/Early Artificial Intelligences.md"
               }
             }
           }
@@ -111,6 +111,8 @@
   },
   "active": "3de4e9434999d62a",
   "lastOpenFiles": [
+    "Technology/Network/Anchor.md",
+    "Physics/n-Space.md",
     "Systems/Greater Terra.md",
     "Maps/Galactic Features and Local Quadrants.md",
     "Maps/Local Stars.md",
@@ -121,6 +123,12 @@
     "Species/Rampant.md",
     "Species/Originals.md",
     "Physics/Merkel Effect.md",
-    "Physics/n-Space.md"
+    "Technology/Gaiopolis.md",
+    "Species/Transcendant Consciousness.md",
+    "Species/The Ancient Ones.md",
+    "Species/Originals.md",
+    "Species/Rampant.md",
+    "Language/Military Slang.md",
+    "Language/Terminology.md"
   ]
 }

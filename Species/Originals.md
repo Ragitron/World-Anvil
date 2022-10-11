@@ -1,7 +1,7 @@
 > I had been on the trail for several [weeks] following the path of animal remains and cut timber. The tribe had set down on a dry river bank for at least several days. When I caught up I only found the remnants of temporary shelters and signs of more surgery.  
-
+>
 > When the forest opened up into a vast plain I could see what the tribe had been working toward for the last few [months]. Just before the horizon was the village. Its sand buildings looked to have been carved out of the landscape. Every rumour I had dismissed stood at the far end of the plains. Smoke rose from chimneys of the larger buildings. Between the edge of the forest plateau and the village was the tribe I had been following. They stood line abreast, shrouded by the tall grass. A cold shiver runs down my back.  
-
+>
 > The tribe remained in formation while two warriors broke off. I scarcely had time to mount my leg before they were upon me, closing kilometres of field in minutes. Their ancient augments flashed at my flanks moments before I was rendered unconscious. 
 
 ## The Originals  
@@ -16,9 +16,9 @@ Despite the seperation skirmishes would occur around margins of territory where 
 ***
 
 > The village was quiet after dusk. Only irritated and restless shuffling indicated that the tribals were nearby when I regained consciousness.  In my brief struggle I realised the surrounding darkness was in fact a bag or blindfold. There were a few whispers nearby and as I continued to struggle I felt my arms and legs be released. 
-
+>
 > When I through off the bag I was lying the rocky dirt of a village square. There were only a few tribals nearby. One sitting down a few metres away, their heavily augmented arms and spinal reinforcement indicating they were a warrior. Two others paced around the seated warrior alternating looks between each other and myself.   
-
+>
 > I spent the night drifting in and out of sleep with the warrior watching me. When I had tried to leave by slipping between the buildings I found I was surround by other warriors and gently redirected to the square. The pacing observers would change out through the night, sometimes heavy set older civilians, or lithe girls with tantalisingly subtle sugmentations of their neck or legs. The warrior always remained. v
 
 ### Augmented Peoples  
@@ -31,6 +31,8 @@ No complete archaelogical survey has been conduced of the achepeligos, however p
 
 Reliant on augmentation, the isolation of *Kurkut* meant the loss of supply chains of high tech manufacturing. The limited supply of augmentation meant much of it was needed to be reused. Somewhere in the development of the Originals the societies began to enforce a hard population limit based on the number of augments. Tribal Elders would accept wards to inherit their augments at the time of their death.  No births were allowed without an accepting Elder. 
 
-This practice would have to have developed after the automated terraforming of the planet was complete when infants and adolescents could survive the planet surface without augmentation. Surgery was performed by specialists within the tribe that had inherited medical augmentations.  
+It is generally accepted that these practices were only adopted after the Originals became nomadic. And the few aerial and ground surveys have found evidence of settlements amongst the archipelegos that have been crudely dated to some few hundred years before contact with the [[Second Empire]]. These settlements are though to have been abandoned once the terraforming of the planet had reached a stage capable of support infant survival without augmentation.
+
+%%This practice would have to have developed after the automated terraforming of the planet was complete when infants and adolescents could survive the planet surface without augmentation. Surgery was performed by specialists within the tribe that had inherited medical augmentations. %%
 
 Tribes maintained a sort of caste system based on the augmentations received. 

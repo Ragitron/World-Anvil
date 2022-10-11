@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1665348678748,
+      "markers": [
+        {
+          "id": "ID_f83a096b7828",
+          "type": "default",
+          "loc": [
+            -0.383697509765625,
+            0.5517578125
+          ],
+          "link": "Greater Terra",
+          "layer": "%5B%5BPasted%20image%2020201126210139.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The traditional home of the Human Empires.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Galactic Features and Local Quadrants.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

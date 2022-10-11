@@ -1,4 +1,9 @@
-## Network Anchors
+---
+alias: Network Anchors
+tags: network
+---
+
+# Network Anchors
 
 At the heart of all Terran communication is the [[Network]] responsible for the collective intuition of entire planets and habitats. 
 
@@ -12,7 +17,7 @@ During the expansion of the [[Second Empire]], fleets capitalised on *Anchors* t
 
 Life support cradles were contraversially implemented aboard the [[Second Empire]]'s 117th Fleet, where anchors were drawn from naval recruits that had suffered brainstem injury during training. This second generation of *Anchors* became archetypal. They were a permanent fixture of the fleet, required for all [[Network]] operations.
 
-During the final expansion of the [[Second Empire]] - where it would be pitted against the rising Stellar Kingdoms of [[Nerok Maro]] - the same technology that was used for *Anchors* would be implement in Fleet command structures. The first *Ship Captains* that were wired permanently into their ships were the oldest and experienced, leveraging their experience and the nibble hardware of their ships to make rapid decisions and communicate them instantaneously.
+During the final expansion of the [[Second Empire]] - where it would be pitted against the rising Stellar Kingdoms of [[Rampant|Nerok Maro]] - the same technology that was used for *Anchors* would be implement in Fleet command structures. The first *Ship Captains* that were wired permanently into their ships were the oldest and experienced, leveraging their experience and the nibble hardware of their ships to make rapid decisions and communicate them instantaneously.
 
 The war with the [[Rampant|Nerok Maro]] bled the [[Second Empire]]'s fleed and its *Ship Captains*. Volunteers were pressed into service to replace what came to be known as the [[Integrated Admiralty]]. Almost all ships with the exception of escorts and gunboats would become integrated with a *Ship Captain*. Utilising the collective decision-making capacity of the admiralty these fleet eventually won their war, subjugating the [[Nerok Maro]]. 
 

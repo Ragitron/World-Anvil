@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "1e3cb15197b89829",
+    "id": "b886ab397f33fc0e",
     "type": "split",
     "children": [
       {
-        "id": "6a5f89a1906ed461",
+        "id": "3de4e9434999d62a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maps/Galactic Features and Local Quadrants.md",
-            "mode": "preview",
+            "file": "Physics/n-Space.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b01ded7eb1f70d3a",
+    "id": "98c8f12c5e4c229d",
     "type": "split",
     "children": [
       {
-        "id": "844c34c6c9946440",
+        "id": "3a132e445ef7692b",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1e6ec1515ca563",
+            "id": "1cc104296cd56b0a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "69b5ae7844c68acd",
+            "id": "c102d1fc2b0975bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "9165f1a47cfdc7c7",
+    "id": "957bc06f60c747f7",
     "type": "split",
     "children": [
       {
-        "id": "215cf76bb66fd226",
+        "id": "2a38c33b6b068027",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6ad47ac76a03a4",
+            "id": "8be79abb9f4ebbcf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Galactic Features and Local Quadrants.md",
+                "file": "Physics/n-Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,23 +81,24 @@
             }
           },
           {
-            "id": "548a603dcfc20b79",
+            "id": "0955d5607736a1c9",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "Physics/n-Space.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8030a5b224df5ba5",
+            "id": "284b31ffe84fd4ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maps/Galactic Features and Local Quadrants.md"
+                "file": "Physics/n-Space.md"
               }
             }
           }
@@ -108,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a5f89a1906ed461",
+  "active": "3de4e9434999d62a",
   "lastOpenFiles": [
     "Systems/Greater Terra.md",
     "Maps/Galactic Features and Local Quadrants.md",
@@ -119,6 +120,7 @@
     "Philosophy/Mind-Body Duality.md",
     "Species/Rampant.md",
     "Species/Originals.md",
+    "Physics/Merkel Effect.md",
     "Physics/n-Space.md"
   ]
 }

@@ -24,7 +24,7 @@ At the centre of the Ring of Glory is [[Greater Terra]], its farthest reach the 
 
 While not actually encircling core *Ring of Glory*, the trade centres of the old empires were the logistic centres that brought the material wealth of the [[Sagittarius Arm]] to [[Greater Terra]].  
 
-Of thhes [[Fomalhaut]], [[Vega]], and [[Arcturus]] the most well known. These systems generally have a dense orbital infrastructure that counter-intuitively makes intra-system navigation slowly, however concentrates warehouses and shipyard facilities for shipping industry.   
+Of these [[Fomalhaut]], [[Vega]], and [[Arcturus]] the most well known. These systems generally have a dense orbital infrastructure that counter-intuitively makes intra-system navigation slowly, however concentrates warehouses and shipyard facilities for shipping industry.   
 
 ***
 

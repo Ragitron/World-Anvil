@@ -1,0 +1,17 @@
+# Forbidden Intent
+
+The *Forbidden Intent* was one of the Capital-Class weight ships manufactured by and extrasolar shipyard at the beginning of the [[First Empire]]. Officially constructed by [[Garden Industries]] - a mining comglomorate of the [[Teegarden]] System - the *Forbidden Intent* was actually a refit freight cruiser from Earth. 
+
+Originally constructed by the solar shipyards of the [[Tuajen#Brandenburg Collective|Brandenburg Collective]] the *Glass Have Full* - as it was first christened - was one of a limited run of manufactured starships that would be referred to as *Freight Cruisers*. Such cruisers generally outweighed any freighter of the time and utilised a fragmenting cargo hold design. These fragmenting holds hosted their own drone supply ships that could peel away from cruiser and accelerate to target beyond accelerations that could be survived by human crew. The intention of such carriers were to speed up the arduous process of loading and unloading by initiating it from the moment a *Freight Cruiser* was at its destination symptom.   
+
+Ultimately the *Freight Cruiser* designed proved financially unsustainable as critical maintenance could no be conducted outside shipyards and *Cruisers* were rarely compatable with traditional shipping crates loaded by a dock crane or tug. The ships did eventually find use in prosperous mining systems where autonomous freight drones proved valuable in the movement of raw material allowing carrier ships to remain in deep mining orbits.
+
+The *Glass Have Full* would eventually be sold to private enterpreneurs and then to the Teegarden Colonial Administration that would decommission the ship and reappropriate its drone supply ships for a near planetary orbit logistic network. The main body of the ship being given over to a research institute for orbital surveillance of Teegarden's moon [[Teegarden#Trafalgar|Trafalgar]].
+
+The recommissioning of the *Glass Have Full* - now known as *Jovial Moon* - was instated by a reformed [[Teegarden#Madrid|Madrid]] government that had risen to power amidst a wave anti-colonial sentiment. By this time, the drone supply network had developed into an extensive orbital infrastructure including the first extrasolar shipyard. Lacking the engineering and design expertise of Earth, the citizen collective [[Garden Industries]] instead used the *Jovial Moon* as a basic structure for its own ship design. The drone supply ships would be reverse engineered into autonomous weapons platforms and the *Jovial Moon* itself would be reinforced to brandish two kinetic missile launchers on its lateral axes. 
+
+The *Forbidden Intent* would be unveiled by the [[Teegarden#Madrid|Madrid]] Government as the systems defensive flagship and would ignite the [[Imperial Brush Fires|Brush Fire Wars]] of the [[First Empire]]. Although its ultimate fate would be as planetary debris following its fatal wounding in the [[Teegarden#Teegarden Crisis|First Madrid Liberation War]], the *Forbidden Intent* continued a rich life in fiction and political rhetoric as a symbol of rebellion and independence.
+
+## Technical Aspects
+
+The original *Glass Have Full* carried a complement of seventy-one supply drones in a heptagonal radial array with a singular drone in a caudal docking ring. The system critical "head" of the ship carried the crew compartment and powerplant, pulling the freight array by three hybrid 

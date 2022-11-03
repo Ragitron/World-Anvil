@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5254ea166ab5b163",
+            "id": "d0ef9b01526e0b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Trantor Doctrine.md",
+                "file": "Empire in Snapshots/Imperial Brush Fires.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b31eb38034bcb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/Brush Fire Timeline.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6d13ebf8a47c6fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
                 "mode": "source",
                 "source": true
               }
@@ -75,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "957bc06f60c747f7",
@@ -92,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisation/Noteworthy Vessels.md",
+                "file": "Timelines/Brush Fire Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisation/Noteworthy Vessels.md",
+                "file": "Timelines/Brush Fire Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisation/Noteworthy Vessels.md"
+                "file": "Timelines/Brush Fire Timeline.md"
               }
             }
           }
@@ -134,17 +157,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3a42da281df959ce",
+  "active": "7b31eb38034bcb0e",
   "lastOpenFiles": [
-    "Concepts/Trantor Doctrine.md",
-    "Organisation/Noteworthy Vessels.md",
     "Empire in Snapshots/Imperial Brush Fires.md",
+    "Timelines/The Exapansions.md",
+    "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
+    "Empire in Snapshots/The Expansions/Second Expansion.md",
     "Systems/Teegarden.md",
-    "Organisation/Tuajen.md",
-    "Organisation/Garden Industries.md",
-    "Systems/Procyon.md",
-    "Organisation/Colonial Protectorate.md",
-    "Empire in Snapshots/The Rings.md",
-    "Maps/Local Stars.md"
+    "Systems/Tobruk.md",
+    "Technology/Network/Anchor.md",
+    "Species/Rampant.md",
+    "Organisation/Third Empire.md",
+    "Organisation/MIlitary of the Empires.md"
   ]
 }

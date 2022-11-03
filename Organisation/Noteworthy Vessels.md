@@ -14,4 +14,20 @@ The *Forbidden Intent* would be unveiled by the [[Teegarden#Madrid|Madrid]] Gove
 
 ## Technical Aspects
 
-The original *Glass Have Full* carried a complement of seventy-one supply drones in a heptagonal radial array with a singular drone in a caudal docking ring. The system critical "head" of the ship carried the crew compartment and powerplant, pulling the freight array by three hybrid 
+The original *Glass Have Full* carried a complement of seventy-one supply drones in a heptagonal radial array with a singular drone in a caudal docking ring. The system critical "head" of the ship carried the crew compartment and powerplant, pulling the freight array by three hybrid torch drives.
+
+During its retrofit, the *Forbidden Intent* would be reinforced along three axes of its heptagonal array. The drone housings would also be enlarged, reducing the number of drones in each column. The final complement would be twenty-eight drones. The caudal drone bay being refit into a pinnace dock that served to provide the Capital ship with capacity to board other vessels.  
+
+The two kinetic missile launchers were refurbished surface-to-orbit weapons firing the locally designed KX-881 missile. Such missiles had a theoretical range of 0,65 AU in combat engagements, however during a siege, the *Forbidden Intent*'s targeting systems could - again in theory - calculate precision kills beyond several AU if not from a Star System's terminus. Along its ventral axis a battery of four Grazers provides close combat capability against most vessels.
+
+The primary armanent of the *Forbidden Intent* was intended to be a large missile network facilitated by its twenty-eight drones carrying large complements of KX-700 kinetic kill missiles. The autonomous drones were designed to loiter in stealth orbits providing what was referred to as "orbital caltrops" that opposition forces would need to fight through or circumnavigate to attack at the *Forbidden Intent* directly.
+
+## Death of the Forbidden Intent 
+
+The [[Teegarden#Teegarden Crisis|Teergarden Crisis]] began with the entry of the *Wayward Hamiltonian* into the System. Contracted by [[Mombasa Exoplanetary]] almost a century of time debt prior, the *Wayward Hamiltonian* was bound for a previously surveyed asteroid rich in heavy metals and related isotopes. Two decades prior the [[Teegarden#Madrid|Madrid Government]] had passed the *Stellar Soveriegnty Act*, declaring itself the sole proprietor of all celestial bodies within its system, in breach of the *Colonial Rights Act* by which corporate entities from Earth still acted.  
+
+Three months of travel separated the aging freighter from its quarry and the Teedgarden Fleet acted immediately to interdict the freighter. Responding to hails with a standard contract code and transmitting its right to enact its contract, the *Wayward Hamiltonian* proceeded through the customs ships. A month into its journey the interdiction fleet was given permission to violently inact its mission, while the *Forbidden Intent* watched from the sidelines.   
+
+The interdiction fleet however, unwilling to fire upon a civilian ship, made threats with weapon locks and launching loiter munitions to coast with the *Wayward Hamiltonian*. Without logs from the destroyed freighter, it can only be assumed that the crew interpreted these actions as empty threats. During its seventh week however, the *Wayward Hamiltonian* penetrated the *Forbidden Intent*'s orbital cordon, triggering an autonomous strike from two drones. A salve of twelve missiles from the two drones would reduce the *Wayward Hamiltonian* to nothing but a cloud of dust and fuel.
+
+The Terran 14th fleet would arrive twenty-four years after the death of the *Wayward Hamiltonian* with a mandate to depose the [[Teegarden#Madrid|Madrid Government]] and inact 

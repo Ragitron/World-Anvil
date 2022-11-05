@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0ef9b01526e0b81",
+            "id": "d0673023e0649204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire in Snapshots/Imperial Brush Fires.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b31eb38034bcb0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timelines/Brush Fire Timeline.md",
+                "file": "Timelines/The Expansions.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6d13ebf8a47c6fdc",
+            "id": "20727f6241af15de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +30,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3a42da281df959ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/Noteworthy Vessels.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md",
+                "file": "Timelines/The Expansions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md",
+                "file": "Timelines/The Expansions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md"
+                "file": "Timelines/The Expansions.md"
               }
             }
           }
@@ -152,22 +127,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7b31eb38034bcb0e",
+  "active": "d0673023e0649204",
   "lastOpenFiles": [
-    "Empire in Snapshots/Imperial Brush Fires.md",
-    "Timelines/The Exapansions.md",
-    "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
-    "Empire in Snapshots/The Expansions/Second Expansion.md",
+    "Timelines/Brush Fire Timeline.md",
+    "Physics/n-Space.md",
+    "Physics/Merkel Effect.md",
+    "Technology/Early Artificial Intelligences.md",
+    "Systems/Procyon.md",
     "Systems/Teegarden.md",
     "Systems/Tobruk.md",
-    "Technology/Network/Anchor.md",
-    "Species/Rampant.md",
-    "Organisation/Third Empire.md",
-    "Organisation/MIlitary of the Empires.md"
+    "Timelines/The Expansions.md",
+    "Maps/Galactic Features and Local Quadrants.md",
+    "Empire in Snapshots/The Expansions/Pre-Expansion Era.md"
   ]
 }

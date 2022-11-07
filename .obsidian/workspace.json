@@ -8,49 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0ef9b01526e0b81",
+            "id": "d0673023e0649204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire in Snapshots/Imperial Brush Fires.md",
+                "file": "Timelines/The Expansions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5923c228b5c5c93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Structures/Bunker.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "7b31eb38034bcb0e",
+            "id": "2352e0474c2e12cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d13ebf8a47c6fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a42da281df959ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/Noteworthy Vessels.md",
-                "mode": "source",
+                "file": "Systems/Alpha Pegasi.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -99,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "957bc06f60c747f7",
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md",
+                "file": "Technology/Structures/Bunker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md",
+                "file": "Technology/Structures/Bunker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timelines/Brush Fire Timeline.md"
+                "file": "Technology/Structures/Bunker.md"
               }
             }
           }
@@ -152,22 +141,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7b31eb38034bcb0e",
+  "active": "5923c228b5c5c93f",
   "lastOpenFiles": [
-    "Empire in Snapshots/Imperial Brush Fires.md",
-    "Timelines/The Exapansions.md",
-    "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
-    "Empire in Snapshots/The Expansions/Second Expansion.md",
-    "Systems/Teegarden.md",
-    "Systems/Tobruk.md",
-    "Technology/Network/Anchor.md",
-    "Species/Rampant.md",
-    "Organisation/Third Empire.md",
-    "Organisation/MIlitary of the Empires.md"
+    "Systems/Alpha Pegasi.md",
+    "Technology/Structures/Bunker.md",
+    "Maps/Local Stars.md",
+    "Maps/Galactic Features and Local Quadrants.md",
+    "Empire in Snapshots/The Rings.md",
+    "Timelines/The Expansions.md",
+    "Timelines/Brush Fire Timeline.md",
+    "Physics/n-Space.md",
+    "Physics/Merkel Effect.md",
+    "Technology/Early Artificial Intelligences.md"
   ]
 }

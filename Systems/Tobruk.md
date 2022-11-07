@@ -16,7 +16,6 @@ The native environment of *Tobruk* is lost to history, although it is clear that
 ## Colonisation
 
 
-
 The satellite's weak gravity allowed the colonists to begin construction of a way station, although construction efforts languished in the early centuries of the colony becoming little more than an automated refuelling depot for mining operations in system. This suggested that there was disagreement amongst the polity of the *Novangelia* in regards to their continuing relationship with the [[First Empire]]. It would appear that some still maintained some loyalty to the Empire in the early centuries, this loyalty would not survive to the next generation of colonists.
 
 The planet that would become *Tobruk* was smaller than *[[Earth]]* although maintained a similar gravity thanks to unusually large reservoirs of heavy metals within the planets lithosphere and core. The Colonists encountered a cloyingly thick atmosphere with high proportions of simple hydrocarbons, bereft of oxygen, and at almost all latitudes filled with mycotic spores that fed directly from the hydrocarbons. With limited resources to retreat from the planet's surface the colonists established themselves regardless. Their modular habitats would quickly become replaced with hardened sandstone structures that would eventually come to define *Tobruk* architecture. The planetary capital would become the mountain city of **Valderra** located at the original colony dropsite.
@@ -48,5 +47,5 @@ By the time of the second millenium of colonisation, the local mycotic spores we
 
 ***
 
-## The [Fall of Tobruk](obsidian://World-Anvil/chroniclesOne/01-Chapter-One)
+## The [Fall of Tobruk](obsidian://chroniclesOne/01-Chapter-One)
 

@@ -24,4 +24,9 @@ date: First Expansion %%Year 3300 (First Empire)%%
 title: [[Third Diaspora]]
 content: 
 [[Greater Terra]] begins driving funding for expansive colonisation efforts, supported by rapid advances in [[Ansible]] technology.
+
+date: Inter Expansion %%Year 4400 (Collapse)%%
+title: [[Fourth Diaspora]] 
+content: 
+The fatal collapse the [[Greater Terra|Greater Terran]] empire resulted in an exodus of colony ships to escape the chaos.
 ```

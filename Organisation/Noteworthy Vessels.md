@@ -31,3 +31,29 @@ Three months of travel separated the aging freighter from its quarry and the Tee
 The interdiction fleet however, unwilling to fire upon a civilian ship, made threats with weapon locks and launching loiter munitions to coast with the *Wayward Hamiltonian*. Without logs from the destroyed freighter, it can only be assumed that the crew interpreted these actions as empty threats. During its seventh week however, the *Wayward Hamiltonian* penetrated the *Forbidden Intent*'s orbital cordon, triggering an autonomous strike from two drones. A salve of twelve missiles from the two drones would reduce the *Wayward Hamiltonian* to nothing but a cloud of dust and fuel.
 
 The Terran 14th fleet would arrive twenty-four years after the death of the *Wayward Hamiltonian* with a mandate to depose the [[Teegarden#Madrid|Madrid Government]] and inact 
+
+***
+
+# Void Native
+
+The Void Native was commissioned in the year 3021 of The [[Second Empire]] and was part of the seventh revision of the robust *Tuajen pcs300* series of cargo ships. Notably, the Void Native was eventually bought by Quinn Olstadt in the year 3029 and saw service as a freelance hauler until it and her crew disappeared in the year 3041 - the calculated age of the ship remained 3.62 years.
+
+## Commission
+
+The Void Native was first commissioned by the Xenial Corporation as part of an order of 3 000 cargo ships to bolster its galactic shipping arm.
+The Void Native, along with two hundred and ninety-nine companion ships were manufactured at the [[Kruger 60|Johannesberg]] orbital shipyards under contract to the [[Kruger 60|Johannesberg]] Federal Manufacturing Corporation.
+
+Of the ten shipyards used for the production of the pcs300 series, [[Kruger 60|Johannesberg]] was widely regarded as the most prestigious location.
+The ships manufactured there had higher purity materials, had significantly reduced failure rates for components, and no ship has suffered a spontaneous catastrophic failure.
+Indeed following the bankruptcy of the *Xenial Corporation*, the cargo fleet was sold off, with ships manufactured at [[Kruger 60|Johannesberg]] being in high demand.
+
+## Corporate Use
+
+The blackbox of the Void Native records a total of 73 delivery flights across <link:internal>the Second Empire</link:internal>.
+This totalled a relativistic travel time of 2 years, and a service history of 13 years when it was sold.
+
+Datalogging and ship-board diagnostics recorded five separated malfunctions, predominantly of the retrofitted entertainment system, and one failure of the ship's communication array.
+
+## Freelancing
+
+Quinn Olstadt purchased the *Void Native* from the Bank of Yakutsk following the bankruptcy of the Xenial corporation.

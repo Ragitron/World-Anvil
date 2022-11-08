@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timelines/The Expansions.md",
+                "file": "Empire in Snapshots/The Expansions/Inter Expansion Years.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "957bc06f60c747f7",
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Structures/Bunker.md",
+                "file": "Empire in Snapshots/The Expansions/Inter Expansion Years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Structures/Bunker.md",
+                "file": "Empire in Snapshots/The Expansions/Inter Expansion Years.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Structures/Bunker.md"
+                "file": "Empire in Snapshots/The Expansions/Inter Expansion Years.md"
               }
             }
           }
@@ -144,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5923c228b5c5c93f",
+  "active": "d0673023e0649204",
   "lastOpenFiles": [
-    "Systems/Alpha Pegasi.md",
-    "Technology/Structures/Bunker.md",
-    "Maps/Local Stars.md",
-    "Maps/Galactic Features and Local Quadrants.md",
-    "Empire in Snapshots/The Rings.md",
+    "Systems/Minsk.md",
     "Timelines/The Expansions.md",
-    "Timelines/Brush Fire Timeline.md",
-    "Physics/n-Space.md",
-    "Physics/Merkel Effect.md",
-    "Technology/Early Artificial Intelligences.md"
+    "Technology/Network/Superluminal Communication.md",
+    "Systems/Greater Terra.md",
+    "Empire in Snapshots/Human Expansion.md",
+    "Systems/Kruger 60.md",
+    "Organisation/Noteworthy Vessels.md",
+    "Systems/Balaclava.md",
+    "Concepts/Celestial Adjacence.md",
+    "Concepts/Time Dilation.md"
   ]
 }

@@ -1,5 +1,5 @@
 ```leaflet
-id: leaflet-map
+id: local-quad
 image: [[Pasted image 20201126210139.png]]
 height: 500px
 lat: 50
@@ -13,7 +13,7 @@ darkMode: false
 ```
 
 ```leaflet
-id: leaflet-map
+id: orion-spur
 image: [[Pasted image 20201126210151.png]]
 height: 500px
 lat: 50

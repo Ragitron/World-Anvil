@@ -4,41 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "bae64fff0f00ee7c",
+        "id": "24af4b57a0eca4f4",
         "type": "tabs",
         "children": [
           {
-            "id": "d0673023e0649204",
+            "id": "344ed52d7f942e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/Second Expansion.md",
-                "mode": "preview",
+                "file": "Philosophy/Anti-Representationalism.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "5923c228b5c5c93f",
+            "id": "46b66ff03eadec48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Structures/Bunker.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2352e0474c2e12cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/Alpha Pegasi.md",
-                "mode": "preview",
+                "file": "Technology/Network/Fractal Manufacturing.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/Second Expansion.md",
+                "file": "Philosophy/Anti-Representationalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/Second Expansion.md",
+                "file": "Philosophy/Anti-Representationalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/Second Expansion.md"
+                "file": "Philosophy/Anti-Representationalism.md"
               }
             }
           }
@@ -142,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0673023e0649204",
+  "active": "344ed52d7f942e49",
   "lastOpenFiles": [
+    "Technology/Network/Fractal Manufacturing.md",
+    "Philosophy/Anti-Representationalism.md",
+    "Technology/Structures/Bunker.md",
+    "Inspiration/What is your Name.md",
+    "Timelines/The Expansions.md",
+    "Systems/Minsk.md",
+    "Empire in Snapshots/The Expansions/Second Expansion.md",
     "Empire in Snapshots/The Expansions/First Expansion.md",
     "Empire in Snapshots/The Expansions/Inter Expansion Years.md",
-    "Systems/Minsk.md",
-    "Timelines/The Expansions.md",
-    "Technology/Network/Superluminal Communication.md",
-    "Systems/Greater Terra.md",
-    "Empire in Snapshots/Human Expansion.md",
-    "Systems/Kruger 60.md",
-    "Organisation/Noteworthy Vessels.md",
-    "Systems/Balaclava.md"
+    "Technology/Network/Superluminal Communication.md"
   ]
 }

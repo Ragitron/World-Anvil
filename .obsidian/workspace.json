@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24af4b57a0eca4f4",
+        "id": "7ed8123b58f2d9f2",
         "type": "tabs",
         "children": [
           {
-            "id": "344ed52d7f942e49",
+            "id": "2b4d6331b74f0109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Anti-Representationalism.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "46b66ff03eadec48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Network/Fractal Manufacturing.md",
-                "mode": "source",
+                "file": "Maps/Milky Way.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Anti-Representationalism.md",
+                "file": "Maps/Milky Way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Anti-Representationalism.md",
+                "file": "Maps/Milky Way.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Anti-Representationalism.md"
+                "file": "Maps/Milky Way.md"
               }
             }
           }
@@ -130,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "344ed52d7f942e49",
+  "active": "2b4d6331b74f0109",
   "lastOpenFiles": [
-    "Technology/Network/Fractal Manufacturing.md",
-    "Philosophy/Anti-Representationalism.md",
-    "Technology/Structures/Bunker.md",
-    "Inspiration/What is your Name.md",
-    "Timelines/The Expansions.md",
-    "Systems/Minsk.md",
-    "Empire in Snapshots/The Expansions/Second Expansion.md",
-    "Empire in Snapshots/The Expansions/First Expansion.md",
+    "Maps/Galactic Features and Local Quadrants.md",
+    "Maps/Local Stars.md",
+    "Maps/Milky Way.md",
+    "Organisation/Colonial Protectorate.md",
+    "Cultures/Rememberance.md",
+    "Empire in Snapshots/Images/Pasted image 20201126210632.png",
+    "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
     "Empire in Snapshots/The Expansions/Inter Expansion Years.md",
-    "Technology/Network/Superluminal Communication.md"
+    "Empire in Snapshots/The Expansions/Second Expansion.md",
+    "Empire in Snapshots/The Expansions/Third Expansion.md"
   ]
 }

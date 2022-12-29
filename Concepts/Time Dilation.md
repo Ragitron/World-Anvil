@@ -5,26 +5,33 @@ ie. Time slows down for you when you travel at the near light speeds compared to
 
 The Calculation is realitively simple:
 
-T = T0/SQRT(1 - v^2/c^2)
+%%T = T0/SQRT(1 - v^2/c^2)%%
+
+$$T = \frac{T_0}{\sqrt{\frac{(1 - v^2)}{c^2}}}$$
 
 where
-T = passage of time for the stationary observer
-T0 = passage of time for the moving observer
-v = velocity of the moving observer
- c = 299 792 458 m/s
 
-If we calculated v as a percentage of the speed of light we can derive a ration between the stationary and moving times.
+T = passage of time for the stationary observer  
+T_0 = passage of time for the moving observer  
+v = velocity of the moving observer  
+c = 299 792 458 ms<sup>-1</sup>  
+
+If we calculated v as a percentage of the speed of light we can derive a ratio between the stationary and moving times.
 ie.
 
-for a v = 0.9c
-T/T0 = 2.29416; or time passes half the speed when moving at 90% of the speed of light
+for 
+$$v = 0.9c$$
+$$\frac{T}{T_0} = 2.29416$$; or time passes half the speed when moving at 90% of the speed of light
 
-To achieve life altering time dilation the speed needs to be increased even further, with the ration approaching infinity as v approaches c.
+To achieve life altering time dilation the speed needs to be increased even further, with the ratio approaching infinity as v approaches c.
 
-v = 0.99999c
-T/T0 ~ 70
+%%v = 0.99999c
+T/T0 ~ 70%%
 
-v = 0.9999999733
-T/T0 = 4328
+$$v = 0.999999c$$
+$$\frac{T}{T_0} \approx 70$$
+
+$$v = 0.9999999733$$
+$$\frac{T}{T_0} \approx 4328$$
 
 ***

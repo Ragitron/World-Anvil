@@ -1,3 +1,7 @@
+---
+aliases: Brush Fire Wars
+---
+
 Following the rise of the [[First Empire]] most colonies accepted rule without incident. Whilst some colonial governments resisted a heavy-handed approach most colonies accepted rule in exchange for strong logistic ties.
 
 The fall of *[[Kyoto]]* made further rebellion undesirable for most of the stronger colonies. Rising tax rates in the first era of the Empire however were generally resisted. Although most colonies understood that taxation fueled further colonisation and the exploitation of even more star systems. 

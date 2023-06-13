@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1665348678748,
+      "lastAccessed": 1667905190987,
       "markers": [
         {
           "id": "ID_f83a096b7828",
@@ -26,6 +26,37 @@
       "shapes": [],
       "files": [
         "Maps/Galactic Features and Local Quadrants.md"
+      ]
+    },
+    {
+      "id": "mily-way",
+      "lastAccessed": 1671577796575,
+      "markers": [
+        {
+          "id": "ID_e9eb89b9aaa8",
+          "type": "default",
+          "loc": [
+            -2.8408203125,
+            1.994140625
+          ],
+          "link": "Greater Terra",
+          "layer": "%5B%5BMilky_way_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49853515625,
+            0.6499106344950849
+          ],
+          "description": "Home of Empire",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Milky Way.md"
       ]
     }
   ],
@@ -57,7 +88,46 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Milky_way_map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Milky_way_map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "mily-way",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

@@ -27,4 +27,24 @@ During this period, the smaller communities deep with the parks of Biodiversity 
 
 ## Periphery
 
+### Jovian Conflict
+
 ## Oort Belt
+
+***
+%%
+Greater Terra is not actually one planet but a network of colonised planets within the Solar System, including Earth itself.
+Greater Terra has formed the heart of the great Human empires and remains the cultural and spiritual home of Humanity.
+
+Greater Terra  is occassionally at the center of debate about the start of <link:internal>Human expansion</link:internal> and numerous historians have insisted that the founding of settlements throughout the solar system should be referred to as First Expansion.
+Most the cosmohistorical establishment refers to this period as the Primal Expansion, or the Early Expansion.
+
+The First of the solar planets to be colonised was Io - technically a moon of Jupiter - followed swiftly by competing colonies and mining operations on *Mars*, the *Moon*, and *Europa*.
+Eventually a permament outpost was established on *Pluto* as a platform for extra-solar expansion.
+This clustering of human habitats is referred to as *Greater Terra* although in most common parlance any reference to *Earth* equally refers to these accessory colonies.
+
+Although human habitats are present on almost all the planets of the Solar System, the five accessory planets of Earth are permanently inhabitated.
+
+Uniquely throughout human civilisation, the populations of Greater Terra identify exclusively as Terran, holding no particular allegience to their home planet.
+This attitude is attributed largely to the highly developed transpart network throughout the solar system that includes both public, corporate, and private transport networks.
+This fluidity of population is held as a model for all extra-solar colonies and is emulated on thousands of worlds and star systems.%%

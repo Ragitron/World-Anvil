@@ -1,0 +1,6 @@
+---
+empire:
+tags:
+---
+
+# [Faction Name]

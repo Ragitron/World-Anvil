@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire in Snapshots/The Rings.md",
+                "file": "Species/Rampant.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empire in Snapshots/The Rings.md",
+                "file": "Species/Rampant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empire in Snapshots/The Rings.md",
+                "file": "Species/Rampant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empire in Snapshots/The Rings.md"
+                "file": "Species/Rampant.md"
               }
             }
           }
@@ -130,27 +130,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1cc104296cd56b0a",
+  "active": "3de4e9434999d62a",
   "lastOpenFiles": [
+    "Species/Originals.md",
+    "Systems/Core  Worlds.md",
+    "Systems/Greater Terra.md",
+    "Empire in Snapshots/The Expansions/Pre-Expansion Era.md",
+    "Empire in Snapshots/The Expansions/Third Expansion.md",
+    "Empire in Snapshots/The Expansions/Second Expansion.md",
+    "Organisation/Third Empire.md",
+    "Technology/Ablative Re-Entry.md",
+    "README.md",
+    "Cultures/Rememberance.md",
+    "Empire in Snapshots/The Rings.md",
     "Technology/Early Artificial Intelligences.md",
     "Technology/Network/Anchor.md",
     "Physics/n-Space.md",
-    "Systems/Greater Terra.md",
     "Maps/Galactic Features and Local Quadrants.md",
     "Maps/Local Stars.md",
-    "README.md",
     "Organisation/Second Empire.md",
     "Places of Interest/University of Luyten.md",
     "Philosophy/Mind-Body Duality.md",
     "Species/Rampant.md",
-    "Species/Originals.md",
     "Physics/Merkel Effect.md",
     "Technology/Gaiopolis.md",
     "Species/Transcendant Consciousness.md",
     "Species/The Ancient Ones.md",
-    "Species/Originals.md",
-    "Species/Rampant.md",
-    "Language/Military Slang.md",
-    "Language/Terminology.md"
+    "Species/Rampant.md"
   ]
 }

@@ -19,7 +19,7 @@ Despite the seperation skirmishes would occur around margins of territory where 
 >
 > When I through off the bag I was lying the rocky dirt of a village square. There were only a few tribals nearby. One sitting down a few metres away, their heavily augmented arms and spinal reinforcement indicating they were a warrior. Two others paced around the seated warrior alternating looks between each other and myself.   
 >
-> I spent the night drifting in and out of sleep with the warrior watching me. When I had tried to leave by slipping between the buildings I found I was surround by other warriors and gently redirected to the square. The pacing observers would change out through the night, sometimes heavy set older civilians, or lithe girls with tantalisingly subtle sugmentations of their neck or legs. The warrior always remained. v
+> I spent the night drifting in and out of sleep with the warrior watching me. When I had tried to leave by slipping between the buildings I found I was surround by other warriors and gently redirected to the square. The pacing observers would change out through the night, sometimes heavy set older civilians, or lithe girls with tantalisingly subtle sugmentations of their neck or legs. The warrior always remained. 
 
 ### Augmented Peoples  
 

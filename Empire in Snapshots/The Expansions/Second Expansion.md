@@ -2,4 +2,4 @@
 
 # Sixth Diaspora
 
-# [[Second Empire#]]
+# Seventh Diaspora - the Grand Diaspora

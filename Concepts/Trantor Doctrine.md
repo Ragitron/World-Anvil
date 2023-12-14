@@ -18,7 +18,7 @@ This altercation brought about the formation of the Terran 14th Fleet, under the
 ## [[Imperial Brush Fires|Brush Fire Wars]] 
 
 
-The [[Teegarden#Teegarden Crisis|Teegarden Crisis]] would eventually trigger a cascade of resentment and revolution amongst the colonies. Previously being willing to compromise and negotiate resource rights with the Earth Government, the now real threat of military intervention further calcified the already isolationist governments scattered throughout the periphery. The century following the crisis saw the largest military build up since the [[Greater Terra#Jovian Conflict|subjugation of the Jovian moons]]. 
+The [[Teegarden#Teegarden Crisis|Teegarden Crisis]] would eventually trigger a cascade of resentment and revolution amongst the colonies. Previously being willing to compromise and negotiate resource rights with the Earth Government, the now real threat of military intervention further radicalised the already isolationist governments scattered throughout the periphery. The century following the crisis saw the largest military build up since the [[Greater Terra#Jovian Conflict|subjugation of the Jovian moons]]. 
 
 Whilst not all colonies had the industry to produce shipyards, most could easily manufacture surface-to-orbit weapons, and in some cases traded for armanents and fleets amongst themselves. In an effort to prevent a descent into civil war, Earth granted numerous provisions to resource rights and self-governance to its core colonies - those that had essentially become self-sufficient. Smaller colonies without the benefit of stable local food and water production quickly acquiesced to demands.
 

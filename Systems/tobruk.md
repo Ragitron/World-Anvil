@@ -46,11 +46,11 @@ On the planet *Alamein* agriculture took the form of bioreactors and algal prote
 
 The hostile atmosphere of *Tobruk* was eventually tamed after several millenia of geo-engineering. The first effort to terraform *Tobruk* began in the second century of colonisation with the construction of the first atmospheric cyclers. These gargantuan machines vacuumed the local atmosphere of the colony wiping out whole species of mycotic spores in the first few years of their activation. After the the collapse of the government aboard the *Novangelia*, the local consulate of the colony in the *Valtus Canyon* (what would eventually become **Valderra**) initiated an infrastructural doctrine that would be upheld through to eventual reunification with *Alamein*.
 
-The **Hermann Doctrine** (named after a famous engineer who had passed away aboard the *Novangelia* in transit to *Tobruk*) in specifics is lost to time, however it was clear that it outlined several goals for the development of the colony. The primary goal of these projects was to make *Tobruk* habitable for human life. The local ecosystem of mycotic spores was deemed too hostile to be in any way compatible or exploitable, and far too primitive to warrant any consideration of ecologic preservation (a result of the old *[[environmental-complexity]]* that governed much of the terraforming efforts of the [[second-empire]]).
+The **Hermann Doctrine** (named after a famous engineer who had passed away aboard the *Novangelia* in transit to *Tobruk*) in specifics is lost to time, however it was clear that it outlined several goals for the development of the colony. The primary goal of these projects was to make *Tobruk* habitable for human life. The local ecosystem of mycotic spores was deemed too hostile to be in any way compatible or exploitable, and far too primitive to warrant any consideration of ecologic preservation (a result of the old *[Environmental Complexity](environmental-complexity.md)* that governed much of the terraforming efforts of the [Second Empire](second-empire.md)).
 
 By the time of the second millenium of colonisation, the local mycotic spores were forced into minute ecologic niches, going with them the hydrocarbon content of the atmosphere - an outcome that many had anticipated.
 
 ***
 
-## The [Fall of Tobruk](obsidian://chroniclesOne/01-Chapter-One)
+## The Fall of Tobruk
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d635a69fbc12b027",
+        "id": "ef4cebb3d9fb1285",
         "type": "tabs",
         "children": [
           {
-            "id": "5640fc9addba2002",
+            "id": "d109589f3ab2a491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire in Snapshots/imperial-brush-fires.md",
+                "file": "Systems/mizar.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empire in Snapshots/imperial-brush-fires.md",
+                "file": "Systems/mizar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empire in Snapshots/imperial-brush-fires.md",
+                "file": "Systems/mizar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empire in Snapshots/imperial-brush-fires.md"
+                "file": "Systems/mizar.md"
               }
             }
           }
@@ -128,8 +128,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -139,34 +137,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5640fc9addba2002",
+  "active": "d109589f3ab2a491",
   "lastOpenFiles": [
-    "Empire in Snapshots/human-expansion.md",
-    "Empire in Snapshots/enlightenment-era.md",
-    "Empire in Snapshots/aftermath-of-the-battle.md",
-    "Empire in Snapshots/The Expansions/third-expansion.md",
-    "Empire in Snapshots/The Expansions/first-expansion.md",
-    "Empire in Snapshots/The Expansions/inter-expansion-years.md",
-    "Empire in Snapshots/The Expansions/second-expansion.md",
-    "Empire in Snapshots/The Expansions/pre-expansion-era.md",
-    "enlightenment-era.md",
-    "Organisation/first-empire.md",
-    "Timelines/the-expansions.md",
+    "Organisation/bellspeare-dynasty.md",
+    "Organisation/austin-republic.md",
+    "Organisation/Stellarii/terran-home-fleet.md",
+    "Organisation/Stellarii/colonial-protectorate.md",
+    "Megastructures/nebuchadnezzar-station.md",
+    "Maps/milky-way.md",
+    "Maps/local-stars.md",
+    "Maps/galactic-features-and-local-quadrants.md",
+    "Maps/Images/local-cluster.png",
+    "Concepts/migrant-ratio.md",
     "Timelines/brush-fire-timelines.md",
-    "Technology/gaiopolis.md",
-    "Technology/early-artificial-intelligence.md",
     "Technology/ablative-re-entry.md",
-    "Technology/Structures/bunker.md",
-    "Technology/network/superluminal-communication.md",
-    "Technology/network/network.md",
-    "Technology/network/fractal-manufacturing.md",
-    "Technology/network/anchor.md",
-    "Systems/tobruk.md",
-    "Systems/teegarden.md",
-    "Systems/procyon.md",
+    "Timelines/the-expansions.md",
+    "Organisation/jacobian-kingdom.md",
     "Systems/mizar.md",
-    "Systems/minsk.md",
-    "Systems/luytens-star.md",
+    "Organisation/hook-foundation.md",
+    "Organisation/garden-industries.md",
+    "Organisation/fourth-empire.md",
+    "Organisation/first-empire.md",
+    "Organisation/brookham-collective.md",
+    "Language/Terminology.md",
+    "Language/military-slang.md",
+    "Inspiration/what-is-your-name.md",
+    "Inspiration/gerard-trignac.md",
+    "Empire in Snapshots/imperial-brush-fires.md",
+    "Empire in Snapshots/the-rings.md",
+    "Empire in Snapshots/aftermath-of-the-battle.md",
+    "Maps/Images/nearest-stars.png",
+    "Maps/Images/galactic-quadrants.png",
+    "Maps/Images/sagitarrius-arm.png",
+    "Megastructures",
     "Empire in Snapshots/Images/after-the-battle.png"
   ]
 }

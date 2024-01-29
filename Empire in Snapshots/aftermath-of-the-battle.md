@@ -3,4 +3,6 @@ aliases:
 tags:
 ---
 
-![](after-the-battle.png)
+# After the Battle
+
+![](Images/after-the-battle.png)

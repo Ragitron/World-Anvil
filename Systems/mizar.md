@@ -12,7 +12,7 @@ The system of Mizar was oft forgotten as critical trade path to the rich Ursae m
 Size: 0.89Eth
 Atmosphere: Eth +0.21%NOS +0.0031%H2
 
-Heritage: [First Expansion](first-expansion.md)
+Heritage: [First Expansion](/World-Anvil/Empire%20in%20Snapshots/The%20Expansions/first-expansion.md)  
 [Migrant Ratio](migrant-ratio): 0.557
 
 <!---

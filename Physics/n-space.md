@@ -5,15 +5,15 @@ tags:
 
 # *n*-Space
 
-The theory of *n*-Space was developed after the discovery of the [[merkel-effect]] and describes the non-physical space outside of physical reality. Although the theory has gone through countless iterations over many millennia human understanding of *n*-space remains limited and largely practical. Numerous predictions about the nature of n-space have been contradicted by experimentation, and although FTL travel through n-space remains reliable and continues to be improved advances are generally incremental and accidental with limited advanced from focused research.
+The theory of *n*-Space was developed after the discovery of the [Merkel Effect](./merkel-effect.md) and describes the non-physical space outside of physical reality. Although the theory has gone through countless iterations over many millennia human understanding of *n*-space remains limited and largely practical. Numerous predictions about the nature of n-space have been contradicted by experimentation, and although FTL travel through n-space remains reliable and continues to be improved advances are generally incremental and accidental with limited advanced from focused research.
 
 Although originally thought to be the dimensionless void between physical planes experimentation has shown that *n*-space both has spacial dimensions and time dimensions, yet appears to provide a pivot for between vast expanses of real-space.
 
 ## The Upsilon Experiments
 
-The *Upsilon Experiments* are a series of observations that have been collated at the time of the [Fourth Empire](fourth-empire.md) which have been used as partial explanations for the nature of *n*-space. Briefly these experiments have demonstrated that *n*-space:
+The *Upsilon Experiments* are a series of observations that have been collated at the time of the [Fourth Empire](../Organisation/fourth-empire.md) which have been used as partial explanations for the nature of *n*-space. Briefly these experiments have demonstrated that *n*-space:
 1. is not subject to the classical laws of Information Theory in a traditional manner
-	1. whilst allowing the passage of information through it, *n*-space will not permit information to leave that breaches the [Information Paradox](information-paradox.md)
+	1. whilst allowing the passage of information through it, *n*-space will not permit information to leave that breaches the [Information Paradox](../Physics/information-paradox.md)
 2. interacts with some subatomic particles, but that this is interaction is unpredictable
 3. does not bind the speed of light
 4. 

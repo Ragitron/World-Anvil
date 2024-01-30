@@ -1,0 +1,6 @@
+---
+aliases:
+tags:
+---
+
+# Tau Ceti

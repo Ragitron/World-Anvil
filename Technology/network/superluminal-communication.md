@@ -20,13 +20,13 @@ Without reliable communication humanity would be unable to sustain a vast galact
 Superluminal communication was not robust until the First Empire, in truth being the primary catalyst for the unification of the scattered human colonies.
 This early Subplanar Gateway was crude and only marginally increased communication speeds.
 
-The development of the Planar Tunneling communication system during the <link:internal>Enlightenment Era</link:internal> has been the basis of all subsequent superluminal communication systems.
+The development of the Planar Tunneling communication system during the [Enlightenment Era](../../Empire%20in%20Snapshots/enlightenment-era.md) has been the basis of all subsequent superluminal communication systems.
 
 # Planar Tunneling
 
 The Planar Tunnel is a physical concept attempting to describe the way the communication network folds spacetime in order to pass a beam of incoherent particles to a recieving station.
 A decoding station is able to use the pattern of transmission and the relative density and composition of the particles to decipher a message.
-While early networks barely managed to achieve more than a few bits per second, furthe development in particle beam accelerators and decodes increased speeds enough to allow direct voice communication between <link:internal>Celestially Adjacent Stars</link:internal>.
+While early networks barely managed to achieve more than a few bits per second, furthe development in particle beam accelerators and decodes increased speeds enough to allow direct voice communication between [Celestially Adjacent Stars](../../Concepts/Glossary/celestial-adjacence.md).
 
 ## Signal Loss
 
@@ -49,9 +49,9 @@ More immediately relevant however is the orbit of the communication stations the
 ## Energy Expenditure
 
 Planar Tunneling is based on technology similar to the planar drive systems of modern starships.
-Similary transmission results in a local and distant burst of high energy particles and radiation.
+Similarly transmission results in a local and distant burst of high energy particles and radiation.
 This prohibits communication systems from orbiting within 20-25 AU of an inhabited planet.
-In rare cases this requires communication stations to be situated outside the stellar terminus within the <italic>Arrival Belt</italic> for interstellar travel.
+In rare cases this requires communication stations to be situated outside the stellar terminus within the *Arrival Belt* for interstellar travel.
 Such stations are so heavily armoured that most have been left unscathed by stellar warfare since their original construction.
 
 Constant course correction requires significant fuel consumption and energy expenditure to maintain a communication network.

@@ -3,5 +3,5 @@ alias:
 tags:
 ---
 
-# [Transcendant Consciousness](transcendant-consciousness.md)
+# [Transcendant Consciousness](../Concepts/transcendant-consciousness.md)
 

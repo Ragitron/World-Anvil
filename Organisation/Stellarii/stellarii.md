@@ -3,6 +3,4 @@ aliases:
 tags:
 ---
 
-# Procyon
-
-## Paris
+# Stellarii 

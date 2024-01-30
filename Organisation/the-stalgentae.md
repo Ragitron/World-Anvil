@@ -10,6 +10,6 @@ tags:
 
 # Between the Second and Third Empires
 
-## [Jacobian Kingdom](jacobian-kingdom.md)
+## [Jacobian Kingdom](../Organisation/jacobian-kingdom.md)
 
-## [The Bellspeare Dynasty](bellspeare-dynasty.md)
+## [The Bellspeare Dynasty](../Organisation/bellspeare-dynasty.md)

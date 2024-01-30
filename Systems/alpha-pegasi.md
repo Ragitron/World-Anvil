@@ -10,6 +10,6 @@ tags:
 
 # Rampant Invasion  
 
-## Reclamation of [[bunker#Bunker Vallum Epsilon|Bunker Vallum Epsilon]]
+## Reclamation of [Bunker Vallum Epsilon](../Technology/Structures/bunker.md#Bunker%20Vallum%20Epsilon)
 
-In the second millenium of the [[third-empire]] the reclamation fleets finally reached the *Alpha Pegasi* in search of precious [[Seed Vault|Seed Vaults]] to revitilise the [[greater-terra|Greater Terran]] ecosystems.
+In the second millenium of the [Third Empire](../Organisation/third-empire.md) the reclamation fleets finally reached the *Alpha Pegasi* in search of precious [Seed Vaults](../Technology/seed-vaults.md) to revitilise the [Greater Terran](../Systems/greater-terra.md) ecosystems.

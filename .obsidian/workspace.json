@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4cebb3d9fb1285",
+        "id": "dbe27eb49408567e",
         "type": "tabs",
         "children": [
           {
-            "id": "d109589f3ab2a491",
+            "id": "4e4234cf6c96ae82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/mizar.md",
-                "mode": "source",
+                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems/mizar.md",
+                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems/mizar.md",
+                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/mizar.md"
+                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md"
               }
             }
           }
@@ -137,35 +137,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d109589f3ab2a491",
+  "active": "4e4234cf6c96ae82",
   "lastOpenFiles": [
+    "Empire in Snapshots/The Expansions/pre-expansion-era.md",
+    "Empire in Snapshots/The Expansions/inter-expansion-years.md",
+    "Empire in Snapshots/The Expansions/first-expansion.md",
+    "Concepts/trantor-doctrine.md",
+    "Organisation/Stellarii/colonial-protectorate.md",
+    "Concepts/conspicuous-assault.md",
+    "Concepts/Glossary/transcendant-consciousness.md",
+    "Concepts/Glossary/time-dilation.md",
+    "Concepts/Glossary/stelgenta.md",
+    "Concepts/Glossary/migrant-ratio.md",
+    "Concepts/Glossary/environmental-complexity.md",
+    "Concepts/Glossary/celestial-adjacence.md",
+    "Systems/barnards-star.md",
+    "Empire in Snapshots/The Expansions/third-expansion.md",
+    "Systems/ross-614.md",
+    "Technology/network/battlenet.md",
+    "Empire in Snapshots/remnant.md",
+    "Maps/local-stars.md",
+    "Systems/mizar.md",
     "Organisation/bellspeare-dynasty.md",
     "Organisation/austin-republic.md",
     "Organisation/Stellarii/terran-home-fleet.md",
-    "Organisation/Stellarii/colonial-protectorate.md",
     "Megastructures/nebuchadnezzar-station.md",
     "Maps/milky-way.md",
-    "Maps/local-stars.md",
     "Maps/galactic-features-and-local-quadrants.md",
     "Maps/Images/local-cluster.png",
     "Concepts/migrant-ratio.md",
-    "Timelines/brush-fire-timelines.md",
-    "Technology/ablative-re-entry.md",
-    "Timelines/the-expansions.md",
-    "Organisation/jacobian-kingdom.md",
-    "Systems/mizar.md",
-    "Organisation/hook-foundation.md",
-    "Organisation/garden-industries.md",
-    "Organisation/fourth-empire.md",
-    "Organisation/first-empire.md",
-    "Organisation/brookham-collective.md",
-    "Language/Terminology.md",
-    "Language/military-slang.md",
-    "Inspiration/what-is-your-name.md",
-    "Inspiration/gerard-trignac.md",
-    "Empire in Snapshots/imperial-brush-fires.md",
-    "Empire in Snapshots/the-rings.md",
-    "Empire in Snapshots/aftermath-of-the-battle.md",
     "Maps/Images/nearest-stars.png",
     "Maps/Images/galactic-quadrants.png",
     "Maps/Images/sagitarrius-arm.png",

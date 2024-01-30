@@ -5,9 +5,9 @@ tags: images
 
 # Galactic Features and Local Quadrants
 
-![](Images/galactic-quadrants.png)
+![](./Images/galactic-quadrants.png)
 
-![](Images/sagitarrius-arm.png)
+![](./Images/sagitarrius-arm.png)
 
 <http://galaxymap.org/drupal/node/45>
 

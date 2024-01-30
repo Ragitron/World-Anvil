@@ -11,9 +11,9 @@ tags:
 
 ## The Originals  
 
-The world of *[[Kurkut]]* had been colonised during the [[Fourth Diaspora]] - which could be argued to be the beginning of the [[third-expansion]] or the end of the [[second-expansion]]; but was largely characterised by a colonial march toward the the galactic edge. The loss of the planet during the fall of the [[First Empire]] marked its isolation for several hundred thousand years until it was reclaimed by the [[third-empire]]. Unfortunately this reclamation occurred during the empire's decline and the planet was again lost after a millenium of imperial development.  
+The world of *[Kurkut](../Systems/kurkut.md)* had been colonised during the [[Fourth Diaspora]] - which could be argued to be the beginning of the [Third Expansion](../Empire%20in%20Snapshots/The%20Expansions/third-expansion.md) or the end of the [Third Expansion](../Empire%20in%20Snapshots/The%20Expansions/second-expansion.md); but was largely characterised by a colonial march toward the the galactic edge. The loss of the planet during the fall of the [First Empire](../Organisation/first-empire.md) marked its isolation for several hundred thousand years until it was reclaimed by the [Third Empire](../Organisation/third-empire.md). Unfortunately this reclamation occurred during the empire's decline and the planet was again lost after a millenium of imperial development.  
 
-The settlers of the [[third-empire]] named the native peoples they encountered the Originals. The native peoples were spread largely through the archipeligos of the planet which were considered to be economically fruitless. The settlers confined themselve the larger continent which became the breadbasket for the rapidly expanding orbital habitats throughout the system. 
+The settlers of the [Third Empire](../Organisation/third-empire.md) named the native peoples they encountered the Originals. The native peoples were spread largely through the archipeligos of the planet which were considered to be economically fruitless. The settlers confined themselve the larger continent which became the breadbasket for the rapidly expanding orbital habitats throughout the system. 
 
 Despite the seperation skirmishes would occur around margins of territory where archepeligo waters would wash into fjords and basins. The Originals believed that the water itself was their territory and would often follow individual currents for fish. The method of fishing conflicted with the settlers cultivated fisheries into which the waters would wash.  These skirmishes became less frequent when the Originals realised that the settlers would destroy the augmentations of their foes along with the bodies.  
 
@@ -28,16 +28,18 @@ Despite the seperation skirmishes would occur around margins of territory where 
 
 ### Augmented Peoples  
 
-The first colonists of *[[Kurkut]]* were heavilyy reliant on augmentation to survive the hostile environment. The atmosphere was largely inhospitable, and the native life inedible. Augmentation was necessary to survive between long periods of isolation. After only a few generations food supplies from the empire could only be used for by the very crews that brought them. Augmentation had allowed the colonists to subsist on native flora.  
+The first colonists of *[Kurkut](../Systems/kurkut.md)* were heavilyy reliant on augmentation to survive the hostile environment. The atmosphere was largely inhospitable, and the native life inedible. Augmentation was necessary to survive between long periods of isolation. After only a few generations food supplies from the empire could only be used for by the very crews that brought them. Augmentation had allowed the colonists to subsist on native flora.  
 
-Terraforming efforts began only centuries before the fall the [[First Empire]] and would appear to have proceeded largely by automation following. The Originals continued to survive as their world gradually changed.   
+Terraforming efforts began only centuries before the fall the [First Empire](../Organisation/first-empire.md) and would appear to have proceeded largely by automation following. The Originals continued to survive as their world gradually changed.   
 
 No complete archaelogical survey has been conduced of the achepeligos, however peacable contact has allowed some understanding the Originals modern history.   
 
-Reliant on augmentation, the isolation of *Kurkut* meant the loss of supply chains of high tech manufacturing. The limited supply of augmentation meant much of it was needed to be reused. Somewhere in the development of the Originals the societies began to enforce a hard population limit based on the number of augments. Tribal Elders would accept wards to inherit their augments at the time of their death.  No births were allowed without an accepting Elder. 
+Reliant on augmentation, the isolation of *[Kurkut](../Systems/kurkut.md)* meant the loss of supply chains of high tech manufacturing. The limited supply of augmentation meant much of it was needed to be reused. Somewhere in the development of the Originals the societies began to enforce a hard population limit based on the number of augments. Tribal Elders would accept wards to inherit their augments at the time of their death.  No births were allowed without an accepting Elder. 
 
-It is generally accepted that these practices were only adopted after the Originals became nomadic. And the few aerial and ground surveys have found evidence of settlements amongst the archipelegos that have been crudely dated to some few hundred years before contact with the [[second-empire]]. These settlements are though to have been abandoned once the terraforming of the planet had reached a stage capable of support infant survival without augmentation.
+It is generally accepted that these practices were only adopted after the Originals became nomadic. And the few aerial and ground surveys have found evidence of settlements amongst the archipelegos that have been crudely dated to some few hundred years before contact with the [Second Empire](../Organisation/second-empire.md). These settlements are though to have been abandoned once the terraforming of the planet had reached a stage capable of support infant survival without augmentation.
 
-%%This practice would have to have developed after the automated terraforming of the planet was complete when infants and adolescents could survive the planet surface without augmentation. Surgery was performed by specialists within the tribe that had inherited medical augmentations. %%
+<!---
+This practice would have to have developed after the automated terraforming of the planet was complete when infants and adolescents could survive the planet surface without augmentation. Surgery was performed by specialists within the tribe that had inherited medical augmentations. 
+-->
 
 Tribes maintained a sort of caste system based on the augmentations received. 

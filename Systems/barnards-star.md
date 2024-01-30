@@ -2,7 +2,3 @@
 aliases:
 tags:
 ---
-
-# Procyon
-
-## Paris

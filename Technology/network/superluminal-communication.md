@@ -20,13 +20,13 @@ Without reliable communication humanity would be unable to sustain a vast galact
 Superluminal communication was not robust until the First Empire, in truth being the primary catalyst for the unification of the scattered human colonies.
 This early Subplanar Gateway was crude and only marginally increased communication speeds.
 
-The development of the Planar Tunneling communication system during the [Enlightenment Era](enlightenment-era.md) has been the basis of all subsequent superluminal communication systems.
+The development of the Planar Tunneling communication system during the [Enlightenment Era](../../Empire%20in%20Snapshots/enlightenment-era.md) has been the basis of all subsequent superluminal communication systems.
 
 # Planar Tunneling
 
 The Planar Tunnel is a physical concept attempting to describe the way the communication network folds spacetime in order to pass a beam of incoherent particles to a recieving station.
 A decoding station is able to use the pattern of transmission and the relative density and composition of the particles to decipher a message.
-While early networks barely managed to achieve more than a few bits per second, furthe development in particle beam accelerators and decodes increased speeds enough to allow direct voice communication between <link:internal>Celestially Adjacent Stars</link:internal>.
+While early networks barely managed to achieve more than a few bits per second, furthe development in particle beam accelerators and decodes increased speeds enough to allow direct voice communication between [Celestially Adjacent Stars](../../Concepts/Glossary/celestial-adjacence.md).
 
 ## Signal Loss
 

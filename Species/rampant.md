@@ -21,3 +21,7 @@ The final communication recorded from the colony being a battle report citing th
 ## The Battle of [Penance](kurkut.md#Penance)
 
 Finally woken from its slumber [Greater Terra](greater-terra.md) finally mobilised its [home fleet](terran-home-fleet.md) to meet the invasion. Additional fleets were drawn from the scattering of principalities, some against the will of the people.
+
+# Biology
+
+## Nesting and Broods

@@ -13,34 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md",
-                "mode": "preview",
+                "file": "Timelines/second-empire-timeline.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "010e78ec58160dab",
+            "id": "e4dc3135b4a2ec6a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "ae14ba45bf816c01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
+                "file": "Organisation/second-empire.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -107,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md",
+                "file": "Timelines/second-empire-timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md",
+                "file": "Timelines/second-empire-timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empire in Snapshots/The Expansions/inter-expansion-years.md"
+                "file": "Timelines/second-empire-timeline.md"
               }
             }
           }
@@ -160,33 +151,36 @@
   },
   "active": "4e4234cf6c96ae82",
   "lastOpenFiles": [
+    "Organisation/second-empire.md",
+    "Timelines/second-empire-timeline.md",
+    "Empire in Snapshots/The Expansions/second-expansion.md",
+    "Technology/network/anchor.md",
+    "Technology/network/battlenet.md",
+    "Technology/network/fractal-manufacturing.md",
+    "Technology/network/superluminal-communication.md",
+    "Technology/network/network.md",
+    "Technology/network/the-network.md",
+    "Technology/Structures/garden-worlds.md",
+    "Empire in Snapshots/The Expansions/first-expansion.md",
+    "Concepts/colony-management.md",
+    "First Expansion.md",
+    "Concepts/conspicuous-assault.md",
+    "Maps/milky-way.md",
+    "Maps/Images/milky-way-2.jpg",
+    "Maps/local-stars.md",
+    "Maps/galactic-features-and-local-quadrants.md",
+    "Maps/Images/Milky_way_map.png",
+    "Empire in Snapshots/the-rings.md",
+    "Empire in Snapshots/remnant.md",
     "Empire in Snapshots/The Expansions/pre-expansion-era.md",
     "Empire in Snapshots/The Expansions/inter-expansion-years.md",
-    "Empire in Snapshots/The Expansions/first-expansion.md",
-    "Concepts/trantor-doctrine.md",
-    "Organisation/Stellarii/colonial-protectorate.md",
-    "Concepts/conspicuous-assault.md",
-    "Concepts/Glossary/transcendant-consciousness.md",
-    "Concepts/Glossary/time-dilation.md",
-    "Concepts/Glossary/stelgenta.md",
-    "Concepts/Glossary/migrant-ratio.md",
-    "Concepts/Glossary/environmental-complexity.md",
-    "Concepts/Glossary/celestial-adjacence.md",
-    "Systems/barnards-star.md",
+    "Organisation/first-empire.md",
     "Empire in Snapshots/The Expansions/third-expansion.md",
-    "Systems/ross-614.md",
-    "Technology/network/battlenet.md",
-    "Empire in Snapshots/remnant.md",
-    "Maps/local-stars.md",
-    "Systems/mizar.md",
-    "Organisation/bellspeare-dynasty.md",
-    "Organisation/austin-republic.md",
-    "Organisation/Stellarii/terran-home-fleet.md",
-    "Megastructures/nebuchadnezzar-station.md",
-    "Maps/milky-way.md",
-    "Maps/galactic-features-and-local-quadrants.md",
+    "Empire in Snapshots/imperial-brush-fires.md",
+    "Empire in Snapshots/enlightenment-era.md",
+    "Empire in Snapshots/aftermath-of-the-battle.md",
+    "Timelines/the-expansions.html",
     "Maps/Images/local-cluster.png",
-    "Concepts/migrant-ratio.md",
     "Maps/Images/nearest-stars.png",
     "Maps/Images/galactic-quadrants.png",
     "Maps/Images/sagitarrius-arm.png",

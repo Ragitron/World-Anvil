@@ -36,4 +36,4 @@ Of these [Fomalhaut](../Systems/fomalhaut.md), [Vega](../Systems/vega.md), and [
 
 ### Ring of Industry  
 
-The traditional capital of the Ring of Industry is [Johannesburg](kruger-60,md#Johannesburg) located in the [Kruger 60](../Systems/kruger-60.md) system. Economically entwined with the capital are the systems of [Pollux](../Systems/polux.md), [Castor](../Systems/castor.md), [Capella](../Systems/capella.md), and [Aldebaran](../Systems/aldebaran.md). 
+The traditional capital of the Ring of Industry is [Johannesburg](../Systems/kruger-60.md#Johannesburg) located in the [Kruger 60](../Systems/kruger-60.md) system. Economically entwined with the capital are the systems of [Pollux](../Systems/polux.md), [Castor](../Systems/castor.md), [Capella](../Systems/capella.md), and [Aldebaran](../Systems/aldebaran.md). 

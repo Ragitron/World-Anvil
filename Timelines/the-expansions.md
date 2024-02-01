@@ -7,12 +7,12 @@ tags:
 
 ```mermaid
 timeline
-    title The Expansions
     section Pre-Expansion
         Early Era   : First Colonists
                     : Generally thought of as occurring before the Pre-Expansion Era the time of the first colonists is the first documented attempts to settle extraoslar worlds with human beings.
         Late Era    : First Diaspora
                     : Considered to be the start of the extrasolar age the first citizen conglomerates begin funding colony ships. Some Colonies recieved corporate backing.
+                    
     section First Expansion
         Early Empire    : Second Diaspora
                         : Driven by the Brush Fire Wars, a wave of expansion emerges from the peripheral systems of the early First Empire.
@@ -20,11 +20,13 @@ timeline
                         : The difficulty of interstellar communication keeps the empire confined to the Orion Spur, however a number of autonomous outposts are funded. 
         Late Empire     : Third Diaspora
                         : Greater Terra begins driving funding for expansive colonisation efforts, supported by rapid advances in ansible technology.
+
     section Inter-Expansion
         Post Fall       : Fourth Diaspora
                         : The fatal collapse of the Greater Terran empire resulted in an exodus of colony ships to escape the chaos.
         Contraction     : Local Expansions
                         : In the wake of the first collapse of mankind's empire self-sufficient colonies rise and fall in stellar kingdoms. Although few new colonies are settled, orbital infrastructure continues to expand.
+                        
     section Second Expansion
         Early Kingdom   : Fifth Diaspora
                         : Although definitionally contested as to whether it was a true diaspora, the early fleets of the Terran Kingdom brought many abandoned and lost colonies uunder its control.
@@ -34,6 +36,7 @@ timeline
                         : Financial support for colonial settlement is restricted with resources allocated to the development of existing colonies. Imperial survey fleets continue to expand to the Empire's reach, while private colony ships follow in their wake.
         High Empire     : The Grand Diaspora
                         : With the Empire secure in resources and command of its extrasolar territories undisputed a mass of colonisation efforts swarm out across the Sagittarius Arm, the Perseus Arm, and the Sapis Arm. The fledging colonies that had struggled to build lives in the wake of the surveys are absorbed, subjugated, or crushed.
+
     section Post-Expansion Era
         Recession       : Collapse of the Second Empire
                         : Stretched out beyond any control of its territory Greater Terra cedes power to any local authority pledging loyalty. The Imperial Fleets were ordered to return to the home systems to command the loyalty of the industrial worlds. The most peripheral colonies and habitats are left to their own devices. Some failing, or simply disappearing into the moras of record keeping.
@@ -41,7 +44,12 @@ timeline
                         : The scattering of the human species across the galactic arm felt like little safeguard for extinction when the Rampant appeared at the edges of the Perseus Arm. The following centuries saw the scouring of numerous world and habitats. The ecological devastation of not only the core world but Greater Terra itself would cripple the flourishing of a new civilisation.
         Emergence       : Interimperial Period
                         : Although the Second Empire was ruin, their victory cost the Rampant their own survival. Beset by ravenous hordes and dormant nests, surviving colonies began to rebuilding what they could. The notable Jacobian Kingdom expanding its dominion with an eye to Empire itself, before collapsing.
+    
+    section Third Expansion
+		Reclamation     : Crusades
+						: The burgeoning Third Empire begins to assault Rampant positions capturing planets and orbital infrastructure.
 ```
+
 <!---
 ```timeline-labeled
 [line-2, body-4]

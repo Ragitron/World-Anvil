@@ -5,7 +5,7 @@ tags:
 
 # Fractal Manufacturing
 
-Network chipsets had begun to proliferate in the middle period of the [Second Empire](../../Organisation/second-empire.md), when the [Network infrastructure](./network.md) had developed to a point that disparate worlds could freely communicate via the [Ansible](./superluminal-communication.md).  
+Network chipsets had begun to proliferate in the middle period of the [Second Empire](../../Organisation/second-empire.md), when the [Network infrastructure](./the-network.md) had developed to a point that disparate worlds could freely communicate via the [Ansible](superluminal-communication.md).  
 
 Such chipsets were specially crafted for intervidual users. The first generation being printed after mapping the wetware connections of the user's brain. This first generation was difficult for many operators to use, often requiring intensive training with the specific chip, making replacement difficult.
 

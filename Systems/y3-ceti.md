@@ -3,4 +3,4 @@ aliases:
 tags:
 ---
 
-# The Third Expansion
+# Y3 Ceti

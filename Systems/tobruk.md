@@ -3,7 +3,7 @@ aliases: alpha-serpentis
 tags:
 ---
 
-# Tobruk
+# Alpha Serpentis
 
 > **Alpha Serpentis** binary star system
 

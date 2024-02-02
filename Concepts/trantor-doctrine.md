@@ -3,16 +3,19 @@ aliases:
 tags:
 ---
 
-> *"It is a weak nation that is unable to control the skies above as it controls the waters below. Let their ships burn in orbit, we are done here"*
+> *"It is a weak nation that is unable to control the skies above as it controls the waters below. Let their ships burn in orbit;  
+> We are done here"*
 > - Xi "Wash" Ghiang, First Admiral of the Imperial Security Fleet 
 
-Trantor Doctrine refers to the strategic objectives of a military as being that of Orbital supremacy. Although never developed as a formal military theory, Marshall Trantor - for which the doctrine is named - would often invoke the importance of the orbital highground in his affairs as the First Marshall of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md)).  
+***
 
-The argument stood in opposition to conventional military thought at the time. Prior to the formation of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md)), stellar naval power was used to secure passage for planetary assault vessels. The focus of the few millitary operations then being to land a military force and impose marshal law.
+Trantor Doctrine refers to the strategic objectives of a military as being that of Orbital supremacy. Although never developed as a formal military theory, Marshall Trantor - for whom the doctrine is named - would often invoke the importance of the orbital highground in his affairs as the First Marshall of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md).  
+
+The argument stood in opposition to conventional military thought at the time. Prior to the formation of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md), stellar naval power was used to secure passage for planetary assault vessels. The focus of the few millitary operations then being to land a military force and impose marshal law.
 
 ## Pre-Colonial Protectorate
 
-The [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md)) was formed to meet the threat of independent colonies to Earth's dominion. The hunger for raw resources to build the orbital infrastructure that would become [Greater Terra](../Systems/greater-terra.md)) could only be meet by fleets of freight ships drawing these resources from across the colonies. 
+The [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md) was formed to meet the threat of independent colonies to Earth's dominion. The hunger for raw resources to build the orbital infrastructure that would become [Greater Terra](../Systems/greater-terra.md) could only be meet by fleets of freight ships drawing these resources from across the colonies. 
 
 Whilst Earth maintained a light fleet of orbital skirmishers and artillery pieces these forces had become wasted after a century of neglect. While the burgeoning empire was by no means peaceful, the small scale conflict rarely required orbital combat. During this time [Kessler Syndrome](./Glossary/kessler-syndrome.md) was still a grave threat to the success of any colony effort. 
 

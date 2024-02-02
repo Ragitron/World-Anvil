@@ -3,9 +3,10 @@ aliases:
 tags:
 ---
 
+# First Expansion
 
-# Second Diaspora
+## Second Diaspora
 
-# Exploration 
+## Exploration 
 
-# Third Diaspora
+## Third Diaspora

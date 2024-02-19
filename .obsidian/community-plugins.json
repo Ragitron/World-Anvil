@@ -1,7 +1,6 @@
 [
   "dataview",
-  "folder-note-plugin",
   "obsidian-pandoc",
-  "waypoint",
-  "obsidian-timeline"
+  "obsidian-timeline",
+  "obsidian-epub-plugin"
 ]

@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timelines/second-empire-timeline.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e4dc3135b4a2ec6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/second-empire.md",
-                "mode": "source",
+                "file": "Philosophy/societies-and-types.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/second-empire-timeline.md",
+                "file": "Philosophy/societies-and-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/second-empire-timeline.md",
+                "file": "Philosophy/societies-and-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timelines/second-empire-timeline.md"
+                "file": "Philosophy/societies-and-types.md"
               }
             }
           }
@@ -151,8 +139,12 @@
   },
   "active": "4e4234cf6c96ae82",
   "lastOpenFiles": [
-    "Organisation/second-empire.md",
+    "Empire in Snapshots/imperial-brush-fires.md",
+    "Empire in Snapshots/enlightenment-era.md",
+    "Empire in Snapshots/The Expansions/first-expansion.md",
+    "Empire in Snapshots/The Expansions/pre-expansion-era.md",
     "Timelines/second-empire-timeline.md",
+    "Organisation/second-empire.md",
     "Empire in Snapshots/The Expansions/second-expansion.md",
     "Technology/network/anchor.md",
     "Technology/network/battlenet.md",
@@ -161,7 +153,6 @@
     "Technology/network/network.md",
     "Technology/network/the-network.md",
     "Technology/Structures/garden-worlds.md",
-    "Empire in Snapshots/The Expansions/first-expansion.md",
     "Concepts/colony-management.md",
     "First Expansion.md",
     "Concepts/conspicuous-assault.md",
@@ -172,12 +163,9 @@
     "Maps/Images/Milky_way_map.png",
     "Empire in Snapshots/the-rings.md",
     "Empire in Snapshots/remnant.md",
-    "Empire in Snapshots/The Expansions/pre-expansion-era.md",
     "Empire in Snapshots/The Expansions/inter-expansion-years.md",
     "Organisation/first-empire.md",
     "Empire in Snapshots/The Expansions/third-expansion.md",
-    "Empire in Snapshots/imperial-brush-fires.md",
-    "Empire in Snapshots/enlightenment-era.md",
     "Empire in Snapshots/aftermath-of-the-battle.md",
     "Timelines/the-expansions.html",
     "Maps/Images/local-cluster.png",

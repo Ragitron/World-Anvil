@@ -14,6 +14,11 @@ timeline
 			Late Era : Protectorate Treaty : Alpha Centauri colonies signs mutual protection treaty with Greater Terra
 
 		section First Reclamation
-			Preamble : Procyon Contact : Paris refuses to accept transit terms of Imperial fleet\
-			
+			Preamble : Procyon Contact : Paris refuses to accept transit terms of the Imperial fleet
+			First Shots : Paris Occupation : Imperial Fleet takes up position in Paris orbit 
+			Resistance : Paris Governer : The Imperial Admiral establishes themselves as the Governer of Paris 
+			Alliance : Imperial Crisis : The nearest stars to Procyon (with the exception of Luyten's Star) begin to form an alliance structure to counteract the Empire's advance
+			Pre-Emptive Strike : Procyon Counter-attack : The Alliance Fleet leaves Groombridge 1830 and attacks Imperial occupation fleet at Procyon 
+			Counter Attack : Burning of Lalande 21185 : A second Imperial fleet arrives in the quadrant destroying the orbital infrastructe of Lalande 21185  
+
 ```

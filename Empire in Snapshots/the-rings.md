@@ -20,7 +20,7 @@ The maps of the the ancient empires were constructed into rings of advancement t
 
 ### Ring of Glory 
 
-At the centre of the Ring of Glory is [Greater Terra](../Systems/greater-terra.md), its farthest reach the worlds of [Groombridge 1830](../Systems/groombridg-1830,md). The historic world of [Alpha Centauri](../Systems/alpha-centauri.md) holds ancient mausoleums and in addition to [Luyten's Star](../Systems/luytens-star) is a centre of knowledge for the [Imperium](../Organisation/third-empire.md) and the later [Fourth Empire](../Organisation/fourth-empire.md).  
+At the centre of the Ring of Glory is [Greater Terra](../Systems/greater-terra.md), its farthest reach the worlds of [Groombridge 1830](../Systems/groombridg-1830.md). The historic world of [Alpha Centauri](../Systems/alpha-centauri.md) holds ancient mausoleums and in addition to [Luyten's Star](../Systems/luytens-star) is a centre of knowledge for the [Imperium](../Organisation/third-empire.md) and the later [Fourth Empire](../Organisation/fourth-empire.md).  
 
 [Sirius](../Systems/sirius.md), [Barnard's Star](../Systems/barnards-star.md), and [Procyon](../Systems/procyon.md) amassed huge populations during their formative generations and are the source of the vast human populations that move the society of the [Fourth Empire](../Systems/fourth-empire.md).  
 

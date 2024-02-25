@@ -1,0 +1,29 @@
+[
+  {
+    "id": "clans",
+    "author": [
+      {
+        "family": "Kruger",
+        "given": "Dunning"
+      }
+    ],
+    "collection-title": "The Clans the Shaped Human Society",
+    "edition": "4",
+    "event-place": "Paris",
+    "issued": {
+      "date-parts": [
+        [ 2065 ]
+      ]
+    },
+    "language": "mar",
+    "number-of-pages": "1230",
+    "number-of-volumes": "13",
+    "publisher": "Deez",
+    "publisher-place": "Paris",
+    "source": "",
+    "title": "The Clans the Shaped Human Society",
+    "title-short": "The Clans the Shaped Human Society",
+    "type": "book",
+    "volume": "10"
+  }
+]

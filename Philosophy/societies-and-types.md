@@ -1,6 +1,7 @@
 ---
 aliases:
 tags: empire
+bibliography: ../references-world.json
 ---
 
 # Types of Societies
@@ -9,7 +10,7 @@ tags: empire
 With absolutely no reference to any other text yet. This page lays out some central tenets that each empire is meant to explore.
 -->
 
-<!-- Since the formation of tribes and clans ^[Clans in the sense of a grouping of family groups united by some familial lines that may share elders and such. I have no idea if this is a valid use of the word but I will subjugate its use here; a quick search shows most people seem to say cans are small family units, until your reach the wiki page which doesn't involve a direct comparison but describes something that is clearly more nebulous and large than a tribe] humanity has sought to unite themselves against common threats; whether these threats are the hunger, predators, the environment, and most commonly, other humans. The way humanity has united themselves has evolved beyond simple family groups and local geography. Encompassing  -->
+<!-- Since the formation of tribes and clans  ^[Clans in the sense of a grouping of family groups united by some familial lines that may share elders and such. I have no idea if this is a valid use of the word but I will subjugate its use here; a quick search shows most people seem to say cans are small family units, until your reach the wiki page which doesn't involve a direct comparison but describes something that is clearly more nebulous and large than a tribe] humanity has sought to unite themselves against common threats; whether these threats are the hunger, predators, the environment, and most commonly, other humans. The way humanity has united themselves has evolved beyond simple family groups and local geography. Encompassing  -->
 
 <!-- human societies have sought to unify themselves around a common set of principles --> 
 Humanity has sought to unite itself against the destructive forces of entropy since it has walked upright. This unity has taken many forms in the distant past. At times being achieved with naked force, and at others with subtle phrase. Always the goal has been to turn the wills of individuals towards a common cause. Whether that be the preservation of family, culture, or borders; the group has defined itself by its common values. Within these structures the games of politics have always played and it has been the players that choose to leave those structures that bring down empires. The historical development of these unifying structures has culminated in the empires of galactic humanity. 
@@ -30,7 +31,21 @@ The great tragedy of the ancient world had for millenia been the collapse of the
 As revolutions in technology brought prosperity, so did revolutions in thought bring disharmony. The long held place of the human being within the *zeitgeist* of ancient society was scrutinised for the comfortable fiction that it was. The sacred nature of man in the image of god, the divine right of kings, the separation of man from the nature that fed him; these were long held beliefs that would not survive the revolutions of thought and technology. These notions - mulched by the guilloitines of the age of revolutions - formed the fertile soil for the future of society. 
 
 <!-- as these fragments were scrutinised, ideology and philosophy began to drive the unification of societies --> 
+The recognition of mankind as a part of nature catalysed the philosophies of humanism that would underpin the future of societal thinking. With the abjugation societal leadership from divinity and familial ties allowed the masses to define their future themselves. Enlightenment philosophy presented to humanity the notion that it was in command of its destiny; and was saddled with the responsibility of defining this destiny. From this emerged the competing philosophies that would mark the late industrial age. The philosophies of wealth creation, of state creation, and security creation marked bloody conflict.  
 
+<!-- from this quagmire of philosophical confrontation emerged the ideas that would form the first empire 
+-->
+The market would emerge triumphant from these battles, seducing the masses with its promises of liberty and happiness at cost price. These ideals would be refined over centuries, subsuming all competition and arguably being responsible for mankind ascent to the galactic plane. While the old philosophers of statehood at any cost, and security at the price of liberty would continue to bubble beneath the surface; they would be adopted and commodified by the market. 
+
+<!-- market forces had shaped society since the days of clans, and in the first empire would reach their apex -->
+
+<!-- the secone empire, starting anew, reflected on the stability of the ancient eras after the failure of the first empire -->
+
+<!-- the nadir of this societal regression was the third empire, with its approbation of blind obedience would be the last of the ancient ways -->
+
+<!-- the bloodshed that ended the third empire scarred the human species for beyond recognition, philosophy all but buried -->
+
+<!-- the societies of history have struggled with unification and collapsed at their pinnacle -->
 
 ***
 
@@ -40,7 +55,9 @@ The focus of the *market society* is to allow for the accumulation of wealth amo
 
 ### The Market and the Individual 
 
-The individual's right to access the market is enshrined in the constitution of the Empire. All citizens are free to purchase commodities and services, and to sell commodities and services. 
+The individual's right to access the market is enshrined in the constitution of the Empire. All citizens are free to purchase commodities and services, and to sell commodities and services. Not only is the individual entitled access to the market; the market in turn is entitled access to the consumer. In this way individuals become mere commodities to be traded. The wills and desires shaped by markets and capital.
+
+Conversely individuals are only valued by the Market Society, if they provide value to the market. 
 
 ***
 
@@ -56,4 +73,4 @@ The Holy society (or sometimes called the theocratic society) seeks to garner wo
 
 ***
 
-## The Synthetic Society - The Fourth Empire
+## The Syncretic Society - The Fourth Empire

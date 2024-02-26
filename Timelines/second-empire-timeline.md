@@ -3,6 +3,30 @@ aliases:
 tags:
 ---
 
+
+## First Restoration
+
+### Unification Era
+> Unification of [Greater Terra](../Systems/greater-terra.md) 
+> The Earth Junta takes control of the Orbitals of Mars and Jupiter
+
+### Early Era 
+
+
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
+
+
+Unification Era
+: This is the definition
+
+
+
 ```mermaid
 timeline
 	title The Second Empire

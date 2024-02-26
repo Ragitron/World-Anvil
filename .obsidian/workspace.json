@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dbe27eb49408567e",
+        "id": "434ccbf0cc99ac43",
         "type": "tabs",
         "children": [
           {
-            "id": "4e4234cf6c96ae82",
+            "id": "3102c2e10367b3f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/societies-and-types.md",
+                "file": "Timelines/second-empire-timeline.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/societies-and-types.md",
+                "file": "Timelines/second-empire-timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/societies-and-types.md",
+                "file": "Timelines/second-empire-timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/societies-and-types.md"
+                "file": "Timelines/second-empire-timeline.md"
               }
             }
           }
@@ -137,13 +137,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e4234cf6c96ae82",
+  "active": "3102c2e10367b3f3",
   "lastOpenFiles": [
+    "Organisation/austin-republic.md",
+    "Timelines/second-empire-timeline.md",
+    "Timelines/Untitled.canvas",
+    "Timelines/the-expansions.md",
+    "Technology/Structures/garden-worlds.md",
+    "Technology/implanted-communication.md",
+    "Technology/network/the-network.md",
+    "Systems/procyon.md",
+    "Concepts/trantor-doctrine.md",
+    "Philosophy/societies-and-types.md",
+    "Philosophy/societies-and-types.pdf",
+    "Philosophy/societies-and-types.html",
+    "Philosophy/societies-and-types.tex",
+    "references-world.json",
+    "references.json",
+    "references-world.bibtex",
+    "references-world.bibtex.md",
     "Empire in Snapshots/imperial-brush-fires.md",
     "Empire in Snapshots/enlightenment-era.md",
     "Empire in Snapshots/The Expansions/first-expansion.md",
     "Empire in Snapshots/The Expansions/pre-expansion-era.md",
-    "Timelines/second-empire-timeline.md",
     "Organisation/second-empire.md",
     "Empire in Snapshots/The Expansions/second-expansion.md",
     "Technology/network/anchor.md",
@@ -151,22 +167,13 @@
     "Technology/network/fractal-manufacturing.md",
     "Technology/network/superluminal-communication.md",
     "Technology/network/network.md",
-    "Technology/network/the-network.md",
-    "Technology/Structures/garden-worlds.md",
     "Concepts/colony-management.md",
     "First Expansion.md",
     "Concepts/conspicuous-assault.md",
     "Maps/milky-way.md",
     "Maps/Images/milky-way-2.jpg",
     "Maps/local-stars.md",
-    "Maps/galactic-features-and-local-quadrants.md",
     "Maps/Images/Milky_way_map.png",
-    "Empire in Snapshots/the-rings.md",
-    "Empire in Snapshots/remnant.md",
-    "Empire in Snapshots/The Expansions/inter-expansion-years.md",
-    "Organisation/first-empire.md",
-    "Empire in Snapshots/The Expansions/third-expansion.md",
-    "Empire in Snapshots/aftermath-of-the-battle.md",
     "Timelines/the-expansions.html",
     "Maps/Images/local-cluster.png",
     "Maps/Images/nearest-stars.png",

@@ -1,1 +1,0 @@
-# Folder note, these notes will have ==no== links to external notes

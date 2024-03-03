@@ -3,7 +3,7 @@ aliases:
 tags:
 ---
 
-# The Second Empire  - The Grand Empire of Humanity 
+# The Second Empire  - The Grand Empire of Humanity
 
 ## Treaty Planets
 

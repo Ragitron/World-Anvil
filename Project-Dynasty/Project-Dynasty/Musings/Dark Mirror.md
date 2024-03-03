@@ -1,4 +1,0 @@
-1. The devourer are a species concerned with rapacious expansion and have slowly been consuming planets
-2. the brood are a species where consciousness occurs among only a handful of births resulting in a highly individualistic society that is flush with slaves
-3. the Custodians are a robotic society that aims to disperse life throughout the galaxy creating garden worlds and violently protecting the galxy from resource exploitation
-4. the venerators are a single ancient habitat that has traveled the intergalactic void for millions of years, its inhabits have never been witnessed by humans but its emissions have been translated to a constant exultation of a unknown deity. attempts to breach the structure have met with failure, with fleets decimated by external weapons, and breaching teams lost to robotic entities referred to as locusts.

@@ -5,7 +5,7 @@ tags:
 
 # Rememberancers and Repository
 
-Before the rise of the [Third Empire](../Oraganisation/third-empire), the remnant kingdoms of [Kaifeng](../Systems/kaifeng.md) had spent centuries struggling in the shadow of the long nights. A gargantuan hulk of battle debris would block out their star for years at a time leaving their planet frigid and barren. Whole cities and nations would be wiped out, to famine, to war, and despair. With them was lost the knowledge of their populations. Technology forgotten in cycles, re-engineered, and forgotten again. 
+Before the rise of the [Third Empire](.../Oraganisation/third-empire), the remnant kingdoms of [Kaifeng](../Systems/kaifeng.md) had spent centuries struggling in the shadow of the long nights. A gargantuan hulk of battle debris would block out their star for years at a time leaving their planet frigid and barren. Whole cities and nations would be wiped out, to famine, to war, and despair. With them was lost the knowledge of their populations. Technology forgotten in cycles, re-engineered, and forgotten again. 
 
 ## Remembrancer 
 

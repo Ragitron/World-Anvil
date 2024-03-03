@@ -6,11 +6,11 @@ tags:
 references: null
 ---
 
-# The Rampant 
+# The Rampant
 
-Once known as the *Nerok Maro* - also known as the Invader Empire - the Rampant had once ravaged the [Second Empire](second-empire.md), demolishing it to its very foundations and leaving worlds infested by their breeding colonies. 
+Once known as the *Nerok Maro* - also known as the Invader Empire - the Rampant had once ravaged the [Second Empire](../Organisation/second-empire.md), demolishing it to its very foundations and leaving worlds infested by their breeding colonies. 
 
-## First Contact 
+## First Contact
 
 The [Second Empire](second-empire.md) had already [been in decline](second-empire.md#Collapse) for centuries when the Rampant emerged out from the [Perseus Arm](galactic-features-and-local-quadrants.md#Perseus%20Arm).
 

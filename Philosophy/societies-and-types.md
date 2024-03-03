@@ -92,9 +92,13 @@ When the Third Empire collapsed, it do so into competing states vying for the fu
 <!-- the bloodshed that ended the third empire scarred the human species for beyond recognition, philosophy all but buried -->
 This competition eventually descended into violence as competition always does, until the human galaxy had torn itself open. 
 The destruction that humanity wrought upon itself made the devastation of the Rampant seem a mere skirmish amidst the stars. 
+The destruction of the human galaxy scarred the physical plane of the stars, leaving the surviving colonies in a world that was no longer recognisable. 
+Not only the loss of knowledge, but the alteration of reality set the society back almost to its starting point. 
+This threatened to plunge humanity into an endless cycle, destined to return to the precipice that it had previously plunged from. 
 
 
-<!-- the societies of history have struggled with unification and collapsed at their pinnacle -->
+<!-- the societies of history have struggled with unification and collapsed at their pinnacle --> 
+
 
 ***
 
@@ -129,4 +133,4 @@ The Holy society (or sometimes called the theocratic society) seeks to garner wo
 
 ## Sources and External Sources
 
-[^rampant]: The [Rampant](../Species/rampant.md) were an alien species that had spread through the Galaxy and in their expansion devoured the remains of the Second empire.
+[^rampant]: The [Rampant](../Species/rampant.md) were an alien species that had spread through the Galaxy and in their expansion devoured the remains of the Second Empire.

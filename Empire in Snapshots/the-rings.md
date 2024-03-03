@@ -2,17 +2,18 @@
 aliases:
 tags:
 ---
+
 # The Rings
 
-The [Imperium's](../Organisation/third-empire.md) historiography had been radically warped by anthrocentrism. In the grand timeline the preceding empires of humanity were a single continuity. 
+The [Imperium's](.../Organisation/third-empire.md) historiography had been radically warped by anthrocentrism. In the grand timeline the preceding empires of humanity were a single continuity. 
 
 The maps of the the ancient empires were constructed into rings of advancement through the galactic arms.  
 
-- The Ring of Glory held [Greater Terra](../Systems/greater-terra.md) and a few select systems that were the most ancient colonies. 
-- The Ring of Wealth was home to a number of colonies of the [Second Expansion](../Empire%20in%20Snapshots/The%20Expansions/second-expansion.md) (although more modern terminology would refer to these worlds as part of the second and third diaspora)
+- The Ring of Glory held [Greater Terra](.../Systems/greater-terra.md) and a few select systems that were the most ancient colonies. 
+- The Ring of Wealth was home to a number of colonies of the [Second Expansion](.../Empire%20in%20Snapshots/The%20Expansions/second-expansion.md) (although more modern terminology would refer to these worlds as part of the second and third diaspora)
 - The Ring of Industry famously is home to *[Johannesburg](../Systems/kruger-60.md#Johannesburg)* and its shipyards  
-- The Ring of Penitence is home to only a few worlds, notably *[Mecca](../Systems/mecca.md)*. It is theorised that it is sparse due to the violence of the invaders.  
-- The Ring of Strength was believed to house a number of fortress worlds that broke the advance of the Invaders; physical evidence for fortress worlds is lacking however. Planets such as *[Beijing](../Systems/beijing.md)* and *[Minsk](../Systems/minsk.md)* were strategically advantageous positions that allowed rapid transit for the ancient fleets .
+- The Ring of Penitence is home to only a few worlds, notably *[Mecca](.../Systems/mecca.md)*. It is theorised that it is sparse due to the violence of the invaders.  
+- The Ring of Strength was believed to house a number of fortress worlds that broke the advance of the Invaders; physical evidence for fortress worlds is lacking however. Planets such as *[Beijing](.../Systems/beijing.md)* and *[Minsk](.../Systems/minsk.md)* were strategically advantageous positions that allowed rapid transit for the ancient fleets .
 - The Ring of Vision is presumed to be the last ring of formal colonisation by the ancient empire, and is the most expansive reaching into territory only ever scouted by humanity in the past  
 
 

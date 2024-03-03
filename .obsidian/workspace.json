@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "434ccbf0cc99ac43",
+        "id": "d14adaba93a1d4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "3102c2e10367b3f3",
+            "id": "cdf8f97ffe6fedb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timelines/second-empire-timeline.md",
+                "file": "Philosophy/societies-and-types.md",
                 "mode": "preview",
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 415.5
   },
   "right": {
     "id": "957bc06f60c747f7",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/second-empire-timeline.md",
+                "file": "Philosophy/societies-and-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/second-empire-timeline.md",
+                "file": "Philosophy/societies-and-types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timelines/second-empire-timeline.md"
+                "file": "Philosophy/societies-and-types.md"
+              }
+            }
+          },
+          {
+            "id": "7e6e8bb06317e44c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "52063cd11b6ff7aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -123,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,48 +159,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3102c2e10367b3f3",
+  "active": "cdf8f97ffe6fedb4",
   "lastOpenFiles": [
-    "Organisation/austin-republic.md",
-    "Timelines/second-empire-timeline.md",
-    "Timelines/Untitled.canvas",
-    "Timelines/the-expansions.md",
-    "Technology/Structures/garden-worlds.md",
-    "Technology/implanted-communication.md",
-    "Technology/network/the-network.md",
-    "Systems/procyon.md",
-    "Concepts/trantor-doctrine.md",
+    "Philosophy/societies-and-types.epub",
     "Philosophy/societies-and-types.md",
+    "Philosophy/how-we-describe-a-space.md",
+    "Maps/Images/nearest-stars.png",
+    "Maps/Images/sagitarrius-arm.png",
+    "Maps/Images/milky-way-2.jpg",
+    "Maps/Images/Milky_way_map.png",
+    "Maps/Images/galactic-quadrants.png",
+    "Philosophy/mind-body-duality.md",
+    "Philosophy/malignant-individualism.md",
+    "Maps/local-stars.md",
+    "Maps/galactic-features-and-local-quadrants.md",
+    "Timelines/second-empire-timeline.md",
+    "Technology/network/the-network.md",
+    "Technology/seed-vaults.md",
+    "Technology/implanted-communication.md",
+    "Systems/mizar.md",
+    "Systems/minsk.md",
+    "Systems/barnards-star.md",
+    "Places of Interest/Megastructures/nebuchadnezzar-station.md",
+    "Philosophy/the-believers.md",
+    "Empire in Snapshots/remnant.md",
+    "Empire in Snapshots/The Expansions/pre-expansion-era.md",
+    "Empire in Snapshots/The Expansions/inter-expansion-years.md",
+    "Empire in Snapshots/The Expansions/second-expansion.md",
+    "Empire in Snapshots/The Expansions/first-expansion.md",
+    "Concepts/colony-management.md",
+    "Empire in Snapshots/the-rings.md",
+    "Empire in Snapshots/imperial-brush-fires.md",
+    "Organisation/noteworthy-vessels.md",
+    "Concepts/trantor-doctrine.md",
+    "Untitled.canvas",
+    "Timelines/Untitled.canvas",
     "Philosophy/societies-and-types.pdf",
     "Philosophy/societies-and-types.html",
     "Philosophy/societies-and-types.tex",
     "references-world.json",
     "references.json",
     "references-world.bibtex",
-    "references-world.bibtex.md",
-    "Empire in Snapshots/imperial-brush-fires.md",
-    "Empire in Snapshots/enlightenment-era.md",
-    "Empire in Snapshots/The Expansions/first-expansion.md",
-    "Empire in Snapshots/The Expansions/pre-expansion-era.md",
-    "Organisation/second-empire.md",
-    "Empire in Snapshots/The Expansions/second-expansion.md",
-    "Technology/network/anchor.md",
-    "Technology/network/battlenet.md",
-    "Technology/network/fractal-manufacturing.md",
-    "Technology/network/superluminal-communication.md",
-    "Technology/network/network.md",
-    "Concepts/colony-management.md",
-    "First Expansion.md",
-    "Concepts/conspicuous-assault.md",
-    "Maps/milky-way.md",
-    "Maps/Images/milky-way-2.jpg",
-    "Maps/local-stars.md",
-    "Maps/Images/Milky_way_map.png",
     "Timelines/the-expansions.html",
     "Maps/Images/local-cluster.png",
-    "Maps/Images/nearest-stars.png",
-    "Maps/Images/galactic-quadrants.png",
-    "Maps/Images/sagitarrius-arm.png",
     "Megastructures",
     "Empire in Snapshots/Images/after-the-battle.png"
   ]

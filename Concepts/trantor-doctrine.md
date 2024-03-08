@@ -9,7 +9,8 @@ tags:
 
 ***
 
-Trantor Doctrine refers to the strategic objectives of a military as being that of Orbital supremacy. Although never developed as a formal military theory, Marshall Trantor - for whom the doctrine is named - would often invoke the importance of the orbital highground in his affairs as the First Marshall of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md).  
+Trantor Doctrine refers to the strategic objectives of a military as being that of Orbital supremacy. 
+Although never developed as a formal military theory, Marshall Trantor - for whom the doctrine is named - would often invoke the importance of the orbital highground in his affairs as the First Marshall of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md).  
 
 The argument stood in opposition to conventional military thought at the time. Prior to the formation of the [Colonial Protectorate](../Organisation/Stellarii/colonial-protectorate.md), stellar naval power was used to secure passage for planetary assault vessels. The focus of the few millitary operations then being to land a military force and impose marshal law.
 
@@ -60,6 +61,6 @@ The siege however, would never come, Trantor keeping his fleet in high orbit, be
 
 ## Marshall Trantor
 
-Returning to Earth after his victory, Admiral Trantor found himself now in the orbital dry docks of [Greater Terra](../Systems/greater-terra.md)). The timid politics of the previous governments had been swept aside by imperial sentiment, spurred in large part by the Admiral's success. The Colonial Protectorate had now been released from civilian shackles, and would enact Terran policy autonomously across the small Empire. 
+Returning to Earth after his victory, Admiral Trantor found himself now in the orbital dry docks of [Greater Terra](../Systems/greater-terra.md). The timid politics of the previous governments had been swept aside by imperial sentiment, spurred in large part by the Admiral's success. The Colonial Protectorate had now been released from civilian shackles, and would enact Terran policy autonomously across the small Empire. 
 
-The success of [Madrid](../Systems/teegarden.md#Madrid) catapulted the Admiral to the highest offices of the Protectorate, and granted him the title of *Marshall*. Although he would never command a fleet again, his involvement woudl shape no only Protectorate Doctrine, but also policy. This would arguably lead to the atrocities of the [Civil War](../Organisation/first-empire.md#Civil%20War). Although the term Trantor Doctrine was rarely referred to in his lifetime, the term becam popular following the Civil War, when the new generation of Admirals and Marshalls attributed the success of [Greater Terra](../Systems/greater-terra.md)) to said doctrine.
+The success of [Madrid](../Systems/teegarden.md#Madrid) catapulted the Admiral to the highest offices of the Protectorate, and granted him the title of *Marshall*. Although he would never command a fleet again, his involvement would shape not only Protectorate Doctrine, but also policy. This would arguably lead to the atrocities of the [Civil War](../Organisation/first-empire.md#Civil%20War). Although the term Trantor Doctrine was rarely referred to in his lifetime, the term became popular following the Civil War, when the new generation of Admirals and Marshalls attributed the success of [Greater Terra](../Systems/greater-terra.md) to said doctrine.

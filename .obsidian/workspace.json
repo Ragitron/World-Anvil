@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/societies-and-types.md",
+                "file": "Organisation/noteworthy-vessels.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "db12e78f9d8af2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/trantor-doctrine.md",
                 "mode": "preview",
                 "source": true
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minsk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/societies-and-types.md",
+                "file": "Organisation/noteworthy-vessels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/societies-and-types.md",
+                "file": "Organisation/noteworthy-vessels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/societies-and-types.md"
+                "file": "Organisation/noteworthy-vessels.md"
               }
             }
           },
@@ -161,8 +173,11 @@
   },
   "active": "cdf8f97ffe6fedb4",
   "lastOpenFiles": [
-    "Philosophy/societies-and-types.epub",
+    "Organisation/Corporations/mombasa-exoplanetary.md",
+    "Concepts/trantor-doctrine.md",
+    "Organisation/noteworthy-vessels.md",
     "Philosophy/societies-and-types.md",
+    "Philosophy/societies-and-types.epub",
     "Philosophy/how-we-describe-a-space.md",
     "Maps/Images/nearest-stars.png",
     "Maps/Images/sagitarrius-arm.png",
@@ -190,8 +205,6 @@
     "Concepts/colony-management.md",
     "Empire in Snapshots/the-rings.md",
     "Empire in Snapshots/imperial-brush-fires.md",
-    "Organisation/noteworthy-vessels.md",
-    "Concepts/trantor-doctrine.md",
     "Untitled.canvas",
     "Timelines/Untitled.canvas",
     "Philosophy/societies-and-types.pdf",

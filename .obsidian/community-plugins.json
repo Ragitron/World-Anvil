@@ -1,5 +1,9 @@
 [
   "dataview",
+<<<<<<< Updated upstream
+=======
+  "folder-note-plugin",
+>>>>>>> Stashed changes
   "obsidian-pandoc",
   "obsidian-timeline",
   "obsidian-epub-plugin"

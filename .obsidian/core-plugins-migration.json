@@ -25,6 +25,11 @@
   "publish": false,
   "sync": false,
   "canvas": true,
+<<<<<<< Updated upstream
   "properties": false,
   "bookmarks": true
+=======
+  "bookmarks": true,
+  "properties": false
+>>>>>>> Stashed changes
 }
